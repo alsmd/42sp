@@ -1,0 +1,500 @@
+    9  git status
+   10  git reset README.md 
+   11  CLEAR
+   12  clear
+   13  git diff
+   14  clear
+   15  git add README.md 
+   16  git statu
+   17  git status
+   18  clear
+   19  git commit -m "primeiro-commit"
+   20  git
+   21  git checkout
+   22  clear
+   23  git log
+   24  git push
+   25  clear
+   26  git log
+   27  git diff ec851d fa6f7e
+   28  clear
+   29  git pull
+   30  git log
+   31  git pull
+   32  clear
+   33  git log
+   34  history
+   35  history > comandos.txt
+   36  clear
+   37  git status
+   38  cd 42sp
+   39  git status
+   40  git log
+   41  clea
+   42  clear
+   43  cd exercicios
+   44  gcc 15.c
+   45  clear
+   46  gcc 15.c
+   47  ./a.out
+   48  gcc 15.c
+   49  ./a.out
+   50  clear
+   51  cd ..
+   52  clear
+   53  gcc main.c
+   54  gcc main.c
+   55  gcc main.c
+   56  clear
+   57  gcc main.c
+   58  gcc main.c
+   59  clear
+   60  gcc main.c
+   61  gcc main.c
+   62   
+   63   
+   64  gcc main.c
+   65  clear
+   66  gcc main.c
+   67  clear
+   68  gcc main.c
+   69  ./a.out
+   70  gcc main.c
+   71  ./a.out
+   72  gcc main.c
+   73  ./a.out
+   74  clear
+   75  ./a.out
+   76  ./a.out
+   77  clear
+   78  ./a.out
+   79  clear
+   80  gcc main.c
+   81  ./a.out
+   82  ./a.out
+   83  ./a.out
+   84  cd /
+   85  cd ./.ssh/
+   86  cd .ssh/
+   87  cd ./cd ~/.ssh/.ssh/
+   88  clear
+   89  cd ~/.ssh/
+   90  cat id_rsa.pub
+   91  clear
+   92  cat id_rsa.pub
+   93  history
+   94  clear
+   95   cat id_rsa.pub
+   96  clear
+   97  cd ../
+   98  git clone git@vogsphere-v2.42sp.org.br:vogsphere/intra-uuid-fbef773b-c749-422f-95ad-78f0f12dc6a6-3581195
+   99  cd intra-uuid-fbef773b-c749-422f-95ad-78f0f12dc6a6-3581195
+  100  cd eu
+  101  wget https://projects.intra.42.fr/uploads/document/document/3722/aceito.txt
+  102  clear
+  103  wget https://projects.intra.42.fr/uploads/document/document/3722/aceito.txt
+  104  wget https://projects.intra.42.fr/uploads/document/document/3722/aceito.txt
+  105  cd intra-uuid-fbef773b-c749-422f-95ad-78f0f12dc6a6-3581195/
+  106  cd eu/
+  107  clear
+  108  wegt https://projects.intra.42.fr/uploads/document/document/3722/aceito.txt
+  109  wget https://projects.intra.42.fr/uploads/document/document/3722/aceito.txt
+  110  cd ../
+  111  git status
+  112  clear
+  113  git add eu
+  114  clear
+  115  git status
+  116  git push
+  117  clear
+  118  git commit -m "Aceitando termos da 42"
+  119  clear
+  120  git status
+  121  git push
+  122  clear
+  123  man
+  124  man man
+  125  clear
+  126  man -f man
+  127  clear
+  128  pwd
+  129  clear
+  130  mkdir teste
+  131  ls
+  132  mkdir teste.txt
+  133  ls
+  134  ls -p
+  135  ls -l
+  136  clear
+  137  ls -l
+  138  mkdir teste
+  139  cd teste
+  140  ls -la
+  141  clear
+  142  ls -la
+  143  clear
+  144  cd .
+  145  cd ..
+  146  clear
+  147  ls -la
+  148  rmdir teste
+  149  clear
+  150  ls -l
+  151  clear
+  152  ls -s
+  153  clear
+  154  ls -l
+  155  chmod o+w text1.txt
+  156  ls -l
+  157  chmod u+x text1.txt
+  158  ls -l
+  159  chmod u-x text1.txt
+  160  ls -l
+  161  chmod a+x text1.txt
+  162  ls -l
+  163  chmod a-x text1.txt
+  164  ls -l
+  165  clear
+  166  ls -l
+  167  chmod g+w
+  168  chmod g+w text1.txt
+  169  ls -l
+  170  clear
+  171  ls -l
+  172  chmod 764 text1.txt 
+  173  ls -l
+  174  cat text1
+  175  clear
+  176  cat text1
+  177  clear
+  178  cat text1
+  179  ls -l
+  180  git clone git@vogsphere-v2.42sp.org.br:vogsphere/intra-uuid-985d9d5c-22b1-4c13-92e4-2081b5e6e09c-3581541
+  181  cd intra-uuid-985d9d5c-22b1-4c13-92e4-2081b5e6e09c-3581541/
+  182  cd ex00
+  183  cat z
+  184  cd ..
+  185  cd ex01
+  186  clear
+  187  ls -l
+  188  chmod 455 testeShell00
+  189  chmod 455 testShell00
+  190  ls -l
+  191  cd intra-uuid-985d9d5c-22b1-4c13-92e4-2081b5e6e09c-3581541/ex00
+  192  cat -e z
+  193  cd ../..
+  194  touch text2.txt
+  195  ls -l
+  196  man touch
+  197  touch Jun 1 23 55 text1
+  198  ls -l
+  199  clear
+  200  ls
+  201  clear
+  202  ls -l
+  203  touch -t 01060959 text2.txt
+  204  ls -l
+  205  nome=flavio
+  206  cho nome
+  207  echo nome
+  208  echo $nome
+  209  echo meu nome é $nome
+  210  sh
+  211  clear
+  212  history
+  213  clear
+  214  echo $nome
+  215  env
+  216  export nome
+  217  env
+  218  sh
+  219  echo $GEM_HOME
+  220  wc text1
+  221  wc text1 text2.txt
+  222  wc text1.txt text2.txt
+  223  clear
+  224  wc text1.txt text2.txt
+  225  wc *.txt
+  226  wc te*
+  227  wc text1*
+  228  wc t*
+  229  wc tex?
+  230  text?
+  231  wc text?
+  232  wc text*
+  233  wc text?????
+  234  wc text?.txt
+  235  echo Z > z
+  236  rm z
+  237  mkdir teste
+  238  cd teste
+  239  cat z > z
+  240  cat z > Z
+  241  cat > z Z
+  242  cat >> z Z
+  243  cat z
+  244  cat z
+  245  cat z >> ola
+  246  cat z
+  247  cat z > z
+  248  cat z >clear
+  249  clear
+  250  touch zz
+  251  cat >> z
+  252  clear
+  253  cat >> z
+  254  cat > z
+  255  cd ..
+  256  touch text1 text2 text1.txt text2.txt
+  257  wc 
+  258  clear
+  259  wc text1
+  260  wc t*
+  261  echo t*
+  262  echo text?
+  263  echo text?*
+  264  echo ~
+  265  echo ~/42sp
+  266  ls
+  267  clear
+  268  echo *
+  269  echo '*'
+  270  echo \*
+  271  echo nome
+  272  echo $nome
+  273  echo "$nome"
+  274  echo "$nome*"
+  275  echo "$nome*"
+  276  echo '$nome*'
+  277  rm text1 text2
+  278  mkdir text1 text2
+  279  rmdir text?
+  280  touch text1 text2
+  281  rm text?.txt
+  282  echo ~
+  283  wc text1
+  284  wc -l te*
+  285  more text1
+  286  clear
+  287  cat text1
+  288  clear
+  289  more text1
+  290  clear
+  291  more text1
+  292  /d
+  293  more text1
+  294  //
+  295  main text1
+  296  more text1
+  297  [A
+  298  clear
+  299  more text1
+  300  more text1
+  301  clear
+  302  more text1
+  303  head -n 2 text1
+  304  head -n 5 text1
+  305  clear
+  306  head -c 1 text1
+  307  head -c 1 text1 $
+  308  head -c 1 text1
+  309  tail -n 1 text1
+  310  tail -n 1 text1
+  311  tail -n 0 text1
+  312  tail -n 2 text1
+  313  tail -c 1 text1
+  314  tail -c 2 text1
+  315  tail -c 3 text1
+  316  grep eu text2
+  317  grep eu text2
+  318  grep -v eu text2
+  319  grep eu text2
+  320  grep -i  eu text2
+  321  teste > cat text1
+  322  teste cat > teste1
+  323  clear
+  324  ls
+  325  ls -l
+  326  ls -l
+  327  cd intra-uuid-98
+  328  cd intra-uuid-985d9d5c-22b1-4c13-92e4-2081b5e6e09c-3581541/
+  329  cd ex01
+  330  touch testShell00
+  331  ls -l
+  332  ls -l
+  333  touch -t 06012342
+  334  touch -t 06012342 textShell00
+  335  ls -l
+  336  touch -t 202006012342 testShell00
+  337  ls -l
+  338  touch -t 202206012342 testShell00
+  339  ls -l
+  340  man touch
+  341  touch -t 06012342 testShell00
+  342  ls -l
+  343  chmod 455 testShell00 
+  344  ls -l
+  345  touch -t 06012341
+  346  touch -t 06012341 testShell00 
+  347  ls -l
+  348  clear
+  349  ls -l
+  350  chmod 655 testShell00 
+  351  chmod 455 testShell00 
+  352  touch -t 06012341 testShell00 
+  353  ls -l
+  354  chmod 655 testShell00 
+  355  chmod 455 testShell00 
+  356  ls -l
+  357  clear
+  358  ls -l
+  359  touch -t 06012341 testShell00 
+  360  ls -l
+  361  clear
+  362  ls -l
+  363  ls -l
+  364  clear
+  365  ls -l
+  366  tar -cf testShell00.tar testShell00
+  367  ls -l
+  368  cd ..
+  369  cd ex02
+  370  for x in(0..6); do echo "test$x"
+  371  for x in(0..6); do mkdir "test$x"
+  372  for x in(0..6); do mkdir "test$x";done
+  373  for x in(0..6); do mkdir test$x;done
+  374  touch test1 test2 test3 test4 test5 test6 test0
+  375  clear
+  376  rm t*
+  377  mkdir test0 test2
+  378  touch test1 test3 test4 test5
+  379  ls -l
+  380  ls -s /teste6 ./teste0
+  381  ls -s teste6 ./teste0
+  382  ls -s teste6 teste0
+  383  ln -s ./test0 test6
+  384  ls -l
+  385  cd test0
+  386  touch teste
+  387  cd ..
+  388  cd test6
+  389  ls
+  390  rm teste
+  391  clear
+  392  cd ..
+  393  ls -l
+  394  chmod 715 test0
+  395  ls -l
+  396  chmod 714
+  397  chmod 714 test1
+  398  ls -l
+  399  chmod 504 test2
+  400  ls -l
+  401  chmod 404 test3
+  402  ls -l
+  403  chmod 641 test4
+  404  ls -l
+  405  chmod 404 test5
+  406  ls -l
+  407  ls -l
+  408  echo 1234 > test1
+  409  echo 1234 > test1
+  410  echo 123 > test1
+  411  cat test1
+  412  ls -l
+  413  echo 1 > test4
+  414  ls -l
+  415  cd ../ex01
+  416  ls -l
+  417  cd ..
+  418  cd ex02
+  419  clear
+  420  ls -l
+  421  chmod u+w test3
+  422  ls =l
+  423  ls -l
+  424  chmod u-w test3
+  425  ls -l
+  426  chmod u+w test5
+  427  chmod u-w test5
+  428  ls -l
+  429  cd test6
+  430  ls -l
+  431  ls -la
+  432  clear
+  433  ls -la
+  434  ls -l
+  435  cd ..
+  436  ls -l
+  437  ln text1 text3
+  438  ln test1 test3
+  439  ln -s test1 test3
+  440  clear
+  441  cat test6
+  442  more test6
+  443  ls -l
+  444  ls test0 test7
+  445  ls -s test0 test7
+  446  ls -la
+  447  ln test0 test6
+  448  ln -s test0 test6
+  449  ls -l
+  450  touch -t 06012047
+  451  touch -t 06012047 text0
+  452  ls -l
+  453  touch -t 06012047 test0
+  454  ls -l
+  455  touch -t 201706012047 test0
+  456  ls -l
+  457  touch -h -t 201706012047 test0
+  458  ls -l
+  459  man touch
+  460  ls
+  461  ls -l
+  462  chmod u 111 text2
+  463  chmod 7
+  464  chmod 7 text2
+  465  ls -l
+  466  chmod 640 text2
+  467  ls -l
+  468  touch testShell00
+  469  tar -cf testShell00.tar testShell00tar -cf testShell00.tar testShell00
+  470  touch testShell00
+  471  tar -cf testShell00.tar testShell00tar -cf testShell00.tar testShell00
+  472  mkdir teste
+  473  cd teste
+  474  touch testShell00
+  475  tar -cf testShell00.tar testShell00tar -cf testShell00.tar testShell00
+  476  tar -cf testShell00.tar testShell00tar
+  477  clear
+  478  tar -cf testShell00.tar testShell00tar
+  479  clear
+  480  tar -cf testShell00.tar testShell00
+  481  ls
+  482  ls -l
+  483  cd ..
+  484  rename testShell00 lala
+  485  mv testShell00 lala
+  486  mv lala ./teste
+  487  touch ola
+  488  ln -s ola teste
+  489  ls -l
+  490  ln -s ola2 teste
+  491  ls -la
+  492  clear
+  493  ln ola teste
+  494  ln ola2 teste
+  495  mkdir ola2
+  496  ln ola2 teste
+  497  touch ola2
+  498  touch ola3
+  499  ln ola ola3
+  500  ln ola ola4
+  501  git clone https://projects.intra.42.fr/projects/basecamp-shell-00
+  502  git clone https://github.com/alsmd/42sp
+  503  git clone https://github.com/alsmd/42sp
+  504  git clone https://github.com/alsmd/42sp
+  505  cd 42sp
+  506  mkdir codigos
+  507  history
+  508  history >> dia_1
