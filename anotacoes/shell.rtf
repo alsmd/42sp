@@ -47,7 +47,7 @@ ln -s a b\par
 *Ele ira realizar 3 testes(filesystem tests, magic tests,\par
 e language tests.)\par
 *O primeiro teste verifica se o arquivo esta vazio ou se \'e9 algum tipo de arquivo especial\par
-*Os teste magicos s\'e3o usados para verificar arquivos com dados em  formatos fixos especificos ex: primeiros 5 caracteres sendo XXXXX \'e9 um tipo XX\par
+*Os teste magicos s\'e3o usados para verificar arquivos com dados em  formatos fixos especificos ex: od primeiros 5 caracteres sendo XXXXX \'e9 um tipo XX\par
 *atraves dos padr\'f5es o file tentara obter outras informa\'e7\'f5es do arquivo, por exemplo se \'e9 uma formata\'e7\'e3o  ASCII, ISO-8859-x ou UTF-8, essas caracteristicas podem ser distinguidas pelos diferentes intervalos e sequ\'eancias de bytes que constituem o texto imprim\'edvel em cada conjunto\par
 *Depois do file determinar o conjunto de caracteres usado em um arquivo do tipo texto ele tentara determinar em que idioma o arquivo foi escrito,os testes de idiomas procuram por conjuntos de caracteres especificos\par
 \b codigos:\b0\par
@@ -89,13 +89,18 @@ bash arquivo.sw\par
 \b patch \b0 ar2 ar.patch ira atualizar o ar2 tirando as partes desnecessarias e colocando as partes requeridas de forma que o ar1 ficara igual o ar2\par
 bc \'e9 uma calculadora em nossa linha de comando\par
 tar -xf arquvio_compactado\par
+\{1..8\} repete o comando substituindo os numeros\par
  cp\par
+truncat\par
 links:\par
 {{\field{\*\fldinst{HYPERLINK https://pt.stackoverflow.com/questions/68704/qual-a-diferen%C3%A7a-entre-um-link-simb%C3%B3lico-e-um-hard-link }}{\fldrslt{https://pt.stackoverflow.com/questions/68704/qual-a-diferen%C3%A7a-entre-um-link-simb%C3%B3lico-e-um-hard-link\ul0\cf0}}}}\f0\fs32\par
 {{\field{\*\fldinst{HYPERLINK https://www.youtube.com/watch?v=L0xvJWRN_r0 }}{\fldrslt{https://www.youtube.com/watch?v=L0xvJWRN_r0\ul0\cf0}}}}\f0\fs32\par
 {{\field{\*\fldinst{HYPERLINK https://www.vivaolinux.com.br/artigo/O-comando-LS-de-A-a-Z }}{\fldrslt{https://www.vivaolinux.com.br/artigo/O-comando-LS-de-A-a-Z\ul0\cf0}}}}\f0\fs32\par
 *git log | grep commit | tail -n 5\par
 vim:\par
-:wq sair salvar\f1\fs22\par
+:wq sair salvar\par
+#!/bash/sw\par
+tar -xf file.tar\par
+xxd\f1\fs22\par
 }
  
