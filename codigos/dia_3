@@ -1,0 +1,500 @@
+    6  ./midLS
+    7  ./midLS
+    8  ./midLS
+    9  ./midLS
+   10  ./midLS
+   11  ./midLS
+   12  ./midLS
+   13  ls -l
+   14  RTFM !
+   15  clear
+   16  ./midLS
+   17  ./midLS
+   18  ./midLS
+   19  ./midLS
+   20  ./midLS
+   21  ./midLS
+   22  ./midLS
+   23  ./midLS
+   24  ./midLS
+   25  clear
+   26  clear
+   27  clear
+   28  ./midLS
+   29  ./midLS
+   30  ./midLS
+   31  ./midLS
+   32  ./midLS
+   33  ./midLS
+   34  ./midLS
+   35  ./midLS
+   36  ./midLS
+   37  clear
+   38  ./midLS
+   39  git clone https://github.com/alsmd/42sp
+   40  git clone https://github.com/alsmd/42sp
+   41  cd intra-uuid-985d9d5c-22b1-4c13-92e4-2081b5e6e09c-3581541/
+   42  cd ex06
+   43  man patch
+   44  patch b sw_patch
+   45  patch b sw.patch
+   46  patch b sw.diff
+   47  diff a b > sw.diff
+   48  patch b sw.diff
+   49  clear
+   50  diff a b > sw.diff
+   51  diff a b > sw.diff
+   52  diff a b > sw.diff
+   53  diff a b > sw.diff
+   54  diff a b > sw.diff
+   55  diff a b > sw.diff
+   56  diff a b > sw.diff
+   57  diff a b > sw.diff
+   58  diff a b > sw.diff
+   59  patch sw.diff
+   60  patch b sw.diff
+   61  patch b sw.diff
+   62  diff a b > sw.diff
+   63  cd ..
+   64  cd ex05
+   65  git status
+   66  git status --ignored
+   67  git status --ignored
+   68  git status --ignored
+   69  git status --ignored
+   70  clear
+   71  git status --ignored
+   72  cd ..
+   73  git status --ignored
+   74  clear
+   75  git status
+   76  ls la
+   77  ls -la
+   78  git status --ignore
+   79  git status --ignored
+   80  clear
+   81  git status --ignored
+   82  clear
+   83  git status
+   84  clear
+   85  git status
+   86  cd ex05
+   87  ./git_ignore.sh
+   88  ./git_ignore.sh
+   89  ./git_ignore.sh
+   90  cash git_ignore.sh
+   91  ./git_ignore.sh
+   92  ls
+   93  git_ignore.sh
+   94  git_ignore.sh
+   95  ./git_ignore.sh
+   96  cd ..
+   97  ls -ls
+   98  ls -la
+   99  mv .git ex05
+  100  ls -la
+  101  cd ex05
+  102  ls -la
+  103  ./git_ignore.sh
+  104  ls -la
+  105  mv .git ..
+  106  git status --ignored
+  107  cd ..
+  108  ls -la
+  109  mv .gitignore ex05
+  110  cd ex05
+  111  ls -la
+  112  clear
+  113  cat .gitignore
+  114  vim .gitignore
+  115  cat .gitignore
+  116  touch .Ds_Store
+  117  ls -la
+  118  cat .gitignore
+  119  vim .gitignore
+  120  cat .gitignore
+  121  vim .gitignore
+  122  cat .gitignore
+  123  cat .gitignore | find
+  124  cat .gitignore > find
+  125  cat .gitignore
+  126  find .Ds_Store
+  127  cat .gitignore | find - name
+  128  cat .gitignore | find -name
+  129  cat .gitignore >  find -name
+  130  cat .gitignore
+  131  find -name < cat .gitignore
+  132  cat .gitignore > find -name
+  133  ./git_ignore
+  134  ./git_ignore.sh
+  135  ./git_ignore.sh
+  136  ./git_ignore.sh
+  137  ./git_ignore.sh
+  138  ./git_ignore.sh
+  139  ./git_ignore.sh
+  140  clear
+  141  ./git_ignore.sh
+  142  git ls-files --others -i --exclude
+  143  git ls-files --others -i --exclude-standard
+  144  git ls-files --others -i --ignored
+  145  git ls-files --others -i --ignored-standard
+  146  git ls-files --others --ignored --exclude-file=<file>
+  147  git ls-files --others -i --exclude-standard
+  148  clear
+  149  ./git_ignore.sh
+  150  vim .gitignore
+  151  git ls-files --others -i --exclude-standard
+  152  ls -la
+  153  rm .Ds_Store
+  154  rm .gitignore
+  155  clear
+  156  ls -la
+  157  cd ..
+  158  ls -la
+  159  git log
+  160  patch c ab.diff
+  161  diff a b > ab.diff
+  162  patch b ab.diff
+  163  patch a ab.diff
+  164  diff a b> ab.diff
+  165  path a ab.diff
+  166  patch a ab.diff
+  167  git status
+  168  cd intra-uuid-985d9d5c-22b1-4c13-92e4-2081b5e6e09c-3581541/
+  169  git status
+  170  clear
+  171  clear
+  172  touch a
+  173  touch b
+  174  diff -u a b > ab.patch
+  175  diff -u a b > ab.patch
+  176  man diff
+  177  patch b ab.patch
+  178  diff arq1 arq2 > arq_patch
+  179  diff arq1 arq2 > arq_patch
+  180  diff a b > ab_patch
+  181  patch arq1 arq_patch
+  182  patch a ab_patch
+  183  diff a b > ab_patch
+  184  patch a ab_patch
+  185  vim a
+  186  git clone https://github.com/alsmd/42sp
+  187  man patch
+  188  diff a b > ab_patch
+  189  diff a b > ab.diff
+  190  patch b ab.diff
+  191  clear
+  192  diff a b > ab.diff
+  193  patch a ab.diff
+  194  cd intra-uuid-985d9d5c-22b1-4c13-92e4-2081b5e6e09c-3581541/
+  195  cd ex06
+  196  ls
+  197  diff a b > sw.diff
+  198  find *~
+  199  echo *~
+  200  echo *
+  201  cd ..
+  202  cd ex07
+  203  find *
+  204  find *'~''
+  205  ad
+  206  asd
+  207  find -nome *'~'
+  208  find -nanme *'~'
+  209  find -name *'~'
+  210  find -name #*
+  211  find -name '#'*
+  212  find -name '#'* | rm
+  213  find -name '#'* > rm
+  214  rm < find -name '#'*
+  215  clear
+  216  find -name *'~' '#'*
+  217  find -name *'~' '#'*
+  218  find -name *'~'
+  219  find -name *'~'
+  220  find -name *'~'
+  221  find -name *'~'
+  222  find -name *"~"
+  223  find -name *"~"
+  224  find -name "./"*"~"
+  225  ma find
+  226  man find
+  227  find . -type -
+  228  find .
+  229  find -name"#""#"
+  230  find -name "#"*"#"
+  231  find -name "#"*"#"
+  232  find -name clean rm
+  233  clear
+  234  find . -type f -name '#*#'
+  235  find . -type f -name '#*#' -name '*~'
+  236  find . -type f -name '*~'
+  237  find . -type f -name '#*#' -name '*~'
+  238  find . -type f -name '#*#' '*~'
+  239  find . -type f -name '#*#''*~'
+  240  find . -type f -name '*~' -exec rm
+  241  find . -type f -name '*[#,~]'
+  242  find . -type f -name '*~' || '#*#'
+  243  find . -type f -name '*~' || '#*#'
+  244  find . -type f -name '#*#' || '#*#'
+  245  find . -type f -name '#*#' || '~*'
+  246  find . -type f -name '[#*#,*~]'
+  247  find . -type f -name '[#*#,*~]'
+  248  find . -type f -name '[#*#,*~]'
+  249  clear
+  250  find . -type f -name '#*#'
+  251  find . -type f -name '#*#'|| -name '#~'
+  252  find . -type f -name '#~'
+  253  find . -type f -name '#*#'|| -name '*~'
+  254  find . -type f -name '#*#'! -name '*~'
+  255  find . -type f -name '#*#' -o '*~'
+  256  find . -type f -name '#*#' -o -name '*~'
+  257  file -C -m teste
+  258  file -C -m teste
+  259  file -C -m teste
+  260  file -C -m teste
+  261  file -m teste.mgc
+  262  file -m teste.mgc teste42
+  263  file -m teste.mgc teste.42
+  264  file -m teste.mgc teste.42
+  265  file -C -m teste
+  266  file -m teste.mgc teste.42
+  267  file -C -m teste
+  268  file -m teste.mgc teste.42
+  269  file --help
+  270  file -m teste.mgc
+  271  file -C -m teste
+  272  file -m teste.mgc teste.php
+  273  file -m teste.php
+  274  file teste.php
+  275  file -m teste.mgc teste.php
+  276  ./teste.mhc
+  277  ./teste.mgc
+  278  chmod u+x teste.mgc
+  279  ./teste.mgc
+  280  file -C -m teste
+  281  file -C -m teste
+  282  file -m teste.mgc
+  283  file -m teste.mgc -e file
+  284  file -m teste.mgc -e file
+  285  file -m teste.mgc -f file
+  286  file -m teste.mgc -f file
+  287  file -m teste.mgc -f file
+  288  file -m file -f teste.mgc
+  289  file -m file -f teste
+  290  file -m teste.mgc
+  291  file -m <lista de templates> <file>
+  292  file -m teste.mgc file
+  293  file -m teste.mgc file
+  294  file -m teste.mgc file
+  295  file -C -m teste
+  296  file -m teste.mgc file
+  297  file -m teste.mgc file
+  298  file -C -m teste
+  299  file -C -m teste
+  300  file -m teste.mgc file
+  301  file -C -m teste
+  302  file -m teste.mgc file
+  303  file -m teste.mgc file
+  304  file --help
+  305  file -i -m teste.mgc file
+  306  file -C -m teste
+  307  file -i -m teste.mgc file
+  308  file -c teste
+  309  file -C teste
+  310  file -C -m teste
+  311  file -m teste.mgc file
+  312  file -m -i teste.mgc file
+  313  file -i -m teste.mgc file
+  314  file -C -m teste
+  315  file -i -m teste.mgc file
+  316  file -C -m teste
+  317  file -i -m teste.mgc file
+  318  file -C -m teste
+  319  file -i -m teste.mgc file
+  320  file -m teste.mgc file
+  321  file -m teste file
+  322  clear
+  323  file -C -m teste
+  324  file -m teste.mgc file
+  325  file -C -m teste
+  326  file -C -m teste
+  327  file -m teste.mgc file
+  328  file -m teste.mgc file
+  329  file -m teste.mgc file
+  330  file -m teste.mgc file
+  331  file -C -m teste
+  332  file -m teste.mgc file
+  333  file -C -m teste
+  334  file -m teste.mgc file
+  335  file -C -m teste
+  336  file -m teste.mgc file
+  337  file -C -m teste
+  338  file -m teste.mgc file
+  339  file -m teste.mgc file
+  340  file -C -m teste
+  341  file -m teste.mgc file
+  342  file -C -m teste
+  343  file -m teste.mgc file
+  344  file -C -m teste
+  345  file -i -m teste.mgc file
+  346  file -C -m teste
+  347  file -m teste.mgc file
+  348  file -C -m teste
+  349  file -m teste.mgc file
+  350  file -m teste.mgc file
+  351  file -C -m teste
+  352  file -m teste.mgc file
+  353  file -C -m teste
+  354  file -m teste.mgc file
+  355  cd ..
+  356  ls
+  357  cd ..
+  358  ls -la
+  359  /usr/share/misc
+  360  cd /usr/share/misc
+  361  /usr/share/misc
+  362  clear
+  363  ls 
+  364  cat magic
+  365  cd magic
+  366  clear
+  367  ls
+  368  ls -la
+  369  cd ..
+  370  ls -la
+  371  main file
+  372  man file
+  373  man magic
+  374  file extension
+  375  file --help
+  376  find . -type f -name '#*#' -o '*~'
+  377  cd intra-uuid-985d9d5c-22b1-4c13-92e4-2081b5e6e09c-3581541/
+  378  cd ex07
+  379  find -name *'~' '*#'*
+  380  find . -type f -name '#*#' -o -name '*~'
+  381  find . -type f -name '#*#' -o -name '*~' -delete
+  382  find . -type f -name '#*#' -o -name '*~'
+  383  find . -type f -name '#*#' -o -name '*~'
+  384  find . -type f -name '#*#' -o -type f -name '*~'
+  385  find -name '#*#' -o -name '*~'
+  386  find -name '~*' -o -name '#*#'
+  387  find -name '~*' -o -name '#*#'
+  388  clear
+  389  clear
+  390  find -name '~*' -o -name '#*#'
+  391  find -name '*~' -o -name '#*#'
+  392  find -name '*~' -o -name '#*#'
+  393  find -name '*~' -o -name '#*#' -delete
+  394  find -name '*~' -o -name '#*#' -delete
+  395  cd ..
+  396  mkdir ex08
+  397  clear
+  398  man file
+  399  clear
+  400  cd ex08
+  401  ls
+  402  touch ft_magic
+  403  ls
+  404  vim ft_magic
+  405  clear
+  406  ls
+  407  cat ft_magic
+  408  vim teste.42
+  409  clear
+  410  ls
+  411  cat teste.42 
+  412  clear
+  413  ls
+  414  file -C -m ft_magic
+  415  ls
+  416  file -m ft_magic.mgc teste.42
+  417  cat ft_magic
+  418  cat teste.42
+  419  vim teste.42 
+  420  vim teste.42 
+  421  clear
+  422  ls
+  423  car teste.42 
+  424  cat teste.42 
+  425  file -m ft_magic.mgc teste.42
+  426  man file
+  427  file -m teste
+  428  ls
+  429  file -m teste
+  430  file -m teste
+  431  file --hep
+  432  file --help
+  433  clear
+  434  file -C -m ft_magic
+  435  man magic
+  436  git clone    Referência de objeto não definida para uma instância de um objeto.
+  437  Enumerating objects: 8, done.
+  438  Counting objects: 100% (8/8), done.
+  439  Delta compression using up to 4 threads
+  440  Compressing objects: 100% (5/5), done.
+  441  Writing objects: 100% (5/5), 2.48 KiB | 508.00 KiB/s, done.
+  442  Total 5 (delta 2), reused 0 (delta 0), pack-reused 0
+  443  remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+  444  To https://github.com/alsmd/42sp
+  445     0a6ddb9..758ed59  main -> main
+  446  clear
+  447  git clone    Referência de objeto não definida para uma instância de um objeto.
+  448  Enumerating objects: 8, done.
+  449  Counting objects: 100% (8/8), done.
+  450  Delta compression using up to 4 threads
+  451  Compressing objects: 100% (5/5), done.
+  452  Writing objects: 100% (5/5), 2.48 KiB | 508.00 KiB/s, done.
+  453  Total 5 (delta 2), reused 0 (delta 0), pack-reused 0
+  454  remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+  455  To https://github.com/alsmd/42sp
+  456     0a6ddb9..758ed59  main -> main
+  457  clear
+  458  git clone https://github.com/alsmd/42sp
+  459  cd 42sp
+  460  ls
+  461  cd codigo
+  462  ls
+  463  cd codigos/
+  464  clear
+  465  ls
+  466  history
+  467  ls
+  468  history > dia_2
+  469  clear
+  470  cat dia_2
+  471  clear
+  472  cd ..
+  473  git status
+  474  git add codigos
+  475  git commit -m "Codigos realizados no dia 2"
+  476  git push
+  477  cd ..
+  478  cd ..
+  479  cd ..
+  480  cd ..
+  481  ls
+  482  cd home
+  483  ls
+  484  cd flda-sil/
+  485  cp a b
+  486  diff a b > ab.diff
+  487  patch a ab.diff
+  488  diff a b > ab.diff
+  489  patch a ab.diff
+  490  cd ../../../
+  491  cd ..
+  492  cd home
+  493  ls
+  494  cd flda-sil/
+  495  /bin/sh
+  496  /bin/sh
+  497  ls
+  498  bin/sh
+  499  /bin/sh
+  500  cd 42sp/
+  501  ls -la
+  502  rm .gitignore 
+  503  clear
+  504  cd codigos
+  505  history >  dia_3
