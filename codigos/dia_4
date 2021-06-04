@@ -1,0 +1,500 @@
+    6  cat teste1
+    7  cat teste1 | sed 's/t/T'
+    8  cat teste1 | sed 's/t/T/'
+    9  cat teste1 | sed 's/t/T/g'
+   10  sed 's/t/T/' teste1
+   11  sed -i  's/t/T/' teste1
+   12  cat teste1
+   13  sed -i  's/t/T/g' teste1
+   14  cat teste1
+   15  sed -i  's/T/t/g' teste1
+   16  cat teste1
+   17  clear
+   18  cat teste1
+   19  cd intra-uuid-985d9d5c-22b1-4c13-92e4-2081b5e6e09c-3581541/
+   20  cd ex01
+   21  ls -l
+   22  chmod u+w
+   23  chmod u+w testShell00
+   24  ls -l
+   25  touch -t 06012342
+   26  touch -t 06012342 testShell00
+   27  ls -l
+   28  chmod u-w testShell00
+   29  ls -l
+   30  tar -cf testShell00 
+   31  tar -cf testShell00.tar testShell00 
+   32  cd ..
+   33  cd ex05
+   34  .teste
+   35  touch .teste
+   36  find . -name '.*'
+   37  bash git_ignore.sh 
+   38  cd ..
+   39  cd ..
+   40  cd 42sp
+   41  touch .testando
+   42  git push
+   43  git clone https://github.com/alsmd/42sp
+   44  cd ..
+   45  git clone https://github.com/alsmd/42sp
+   46  touch .testando
+   47  git push
+   48  cd 42sp/
+   49  touch .testando
+   50  git push
+   51  git status
+   52  clear
+   53  ls -la
+   54  git status
+   55  touch .teste2
+   56  ls -la
+   57  ls 
+   58  clear
+   59  ls
+   60  ls -la
+   61  clear
+   62  git status
+   63  git add
+   64  git add .teste2
+   65  git status
+   66  clear
+   67  vim .gitignore
+   68  clear
+   69  git status
+   70  ls ${cat .gitignore}
+   71  cat .gitignore | ls
+   72  clear
+   73  touch arquivo
+   74  rm .gitignore
+   75  bash git_ignore.sh
+   76  bash git_ignore.sh
+   77  clear
+   78  vim .gitignore
+   79  git status
+   80  touch .algo
+   81  git add .algo
+   82  cat .gitignore
+   83  git teste
+   84  git teste
+   85  git teste
+   86  clear
+   87  askdmaskd
+   88  dsakmdakmdsa
+   89  dsakmdakmdsa 2> arquivo
+   90  dsakmdakmdsa > arquivo
+   91  ls dsakmdakmdsa recursos  2> arquivo > arquivo2
+   92  cd ..
+   93  cd intra-uuid-985d9d5c-22b1-4c13-92e4-2081b5e6e09c-3581541/
+   94  ex05
+   95  cd ex05
+   96  clear
+   97  git status
+   98  clear
+   99  git ls-files --others
+  100  git status
+  101  git ls-files -i
+  102  git ls-files -i --exclude-standard
+  103  vim .gitignore
+  104  git ls-files -i --exclude-standard
+  105  git status
+  106  git add .gitignore
+  107  git commit -m ".gitignore"
+  108  git push
+  109  git ls-files -i --exclude-standard
+  110  git status
+  111  git ls-files --others -i --exclude-standard
+  112  cat .gitignore
+  113  ls -la
+  114  git ls-files -i --exclude-standard
+  115  git ls-files --others -i --exclude-standard
+  116  git add .gitignore
+  117  git commit -m ".gitignore"
+  118  git push
+  119  clear
+  120  ls -la
+  121  rm .gitignore 
+  122  rm .teste
+  123  rm teste
+  124  clear
+  125  touch .gitignore
+  126  vim .gitignore
+  127  bash git_ignore.sh 
+  128  bash git_ignore.sh 
+  129  bash git_ignore.sh 
+  130  bash git_ignore.sh 
+  131  bash git_ignore.sh 
+  132  clear
+  133  bash git_ignore.sh 
+  134  bash git_ignore.sh 
+  135  bash git_ignore.sh 
+  136  ls -l
+  137  cat .gitignore 
+  138  ls -la
+  139  rm teste
+  140  rm .gitignore 
+  141  clear
+  142  bash git_ignore.sh 
+  143  bash git_ignore.sh 
+  144  bash git_ignore.sh 
+  145  vim .gitignore
+  146  touch teste
+  147  bash git_ignore.sh 
+  148  clear
+  149  git log
+  150  git log | grep commit
+  151  git log -5 | grep commit| cut -c 8-48
+  152  clear
+  153  git log
+  154  ls -l
+  155  ls -l
+  156  clear
+  157  git log | grep commit   | head  -n 5 | cut -c 8-48
+  158  clear
+  159  #!/bin/sh
+  160  #!/bin/sh'
+  161  clear
+  162  git log
+  163  git log | grep commit
+  164  git log | grep commit | head -n 5
+  165  git log | grep commit | head -n 5 | cut -c 8-48
+  166  git log | grep commit | head -n 5 | cut -c 1
+  167  git log | grep commit | head -n 5 | cut -c 1-8
+  168  git log | grep commit | head -n 5 | cut -c "1-8"
+  169  git log | grep commit | head -n 5 | cut -s "1-8"
+  170  git log | grep commit | head -n 5 | cut -c 1-8
+  171  head --help
+  172  clear
+  173  touch t
+  174  rm t
+  175  cd ..
+  176  cd ex08
+  177  touch teste
+  178  file teste
+  179  clear
+  180  file teste
+  181  file teste
+  182  clear
+  183  file teste
+  184  clear
+  185  file teste.php
+  186  clear
+  187  file teste.php
+  188  file teste.php
+  189  file teste.php
+  190  ft -C -m ft_magic 
+  191  file -C -m ft_magic 
+  192  file -m ft_magic teste.php
+  193  file -C -m ft_magic 
+  194  file -C -m ft_magic 
+  195  file -m ft_magic teste.php
+  196  cd ../..
+  197  cd intra-uuid-1f8d0cb5-c03e-435a-934a-e945abb51a6f-3584458/
+  198  ls
+  199  cd ex02
+  200  clear
+  201  ls
+  202  ls
+  203  clear
+  204  ls
+  205  cat find_sh.sh 
+  206  bash find_sh.sh 
+  207  cut --help
+  208  cut --help
+  209  bash find_sh.sh 
+  210  cd ..
+  211  mkdir ex03
+  212  cd ex03
+  213  wc --help
+  214  touch count_files.sh
+  215  find . -type f
+  216  find . -type f | wc -l
+  217  find 
+  218  find .  | wc -l
+  219  cd ..
+  220  mkdir ex04
+  221  cd ex04
+  222  ifconfig
+  223  ifconfig | grep HWaddr
+  224  ip route list
+  225  ip hwddr show
+  226  ip addr show
+  227  clear
+  228  ip addr show
+  229  ip addr show | grep HWaddr
+  230  ip addr show | grep addr
+  231  ip addr show
+  232  ip link show
+  233  ifconfig
+  234  arping
+  235  ip
+  236  ip -d
+  237  ip addr show
+  238  ip link show
+  239  ip link show
+  240  ip link show
+  241  ip link show
+  242  ip link show
+  243  clear
+  244  clear
+  245  ip link show
+  246  clear
+  247  ifconfing
+  248  ifconfig
+  249  ifconfig -a link
+  250  ifconfig | grep ether
+  251  ifconfig
+  252  clear
+  253  ip
+  254  ipconfig
+  255  ip config
+  256  ifconfig
+  257  ifconfig | grep ether
+  258  ifconfig | grep ether
+  259  ifconfig | grep ether | cut -d ' ' -f2
+  260  ifconfig | grep ether | cut -d ' ' -f
+  261  ifconfig | grep ether | cut -d ' ' -f1
+  262  ifconfig | grep ether | cut -d '' -f1
+  263  ifconfig | grep ether | cut -d '' -f2
+  264  ifconfig | grep ether | cut -d ' ' -f2
+  265  ifconfig | grep ether | cut -d ' ' -f2
+  266  tr --help
+  267  rev --help
+  268  cat arquivo
+  269  file sistema
+  270  file --help
+  271  /usr/share/misc/magic.
+  272  cd /usr/share/misc/magic.
+  273  cat arquivo
+  274  rev arquivo
+  275  touch teste.php
+  276  file teste.php
+  277  touch teste.c
+  278  file teste.c
+  279  man magic
+  280  clear
+  281  cd intra-uuid-1f8d0cb5-c03e-435a-934a-e945abb51a6f-3584458/
+  282  ex02
+  283  ls
+  284  cd ex02
+  285  ls
+  286  clear
+  287  ls
+  288  find . -name '*.sh'
+  289  find . -name '*.sh' | rev
+  290  find . -name '*.sh' | rev | c -d '/' f1
+  291  find . -name '*.sh' | rev | c -d '/' -f1
+  292  find . -name '*.sh' | rev | cut -d '/' -f1
+  293  find . -name '*.sh' | rev | cut -d '/' -f1 | rev
+  294  find . -name '*.sh' | rev | cut -d '/' -f1 | rev
+  295  [-e .gitignore] && ls ${cat .gitignore} 
+  296  2>/dev/null
+  297  cd 42 sp
+  298  vim .gitignore
+  299  [-e .gitignore] && ls ${cat .gitignore} 
+  300  rm .gitignore
+  301   ifconfig | grep ether | cut -d ' ' -f2 | tr -d ' '
+  302   ifconfig | grep ether | tr -d ' '
+  303   ifconfig | grep ether | tr -d ' ' | cut -d 'ether' -f1
+  304   ifconfig | grep ether | tr -d ' ' | cut -d '' -f1
+  305  tr --help
+  306   ifconfig | grep ether | tr -s ' ' | cut -d '' -f1
+  307   ifconfig | grep ether | tr -s ' ' | cut -d '' -f1
+  308  ifconfig | grep ether | tr -s ' ' | cut -d ' ' -f1 
+  309  ifconfig | grep ether | tr -s ' ' | cut -d '' -f 
+  310  ifconfig | grep ether | tr -s ' ' | cut -d '' -f1 
+  311  ifconfig | grep ether | tr -s ' ' | cut -d '' -f1 
+  312  ifconfig | grep ether | tr -s ' ' | cut -d '' -f2 
+  313  ifconfig | grep ether | tr -s ' ' | cut -d ' ' -f2 
+  314  ifconfig | grep ether | tr -s ' ' | cut -d ' ' -f3 
+  315  clear
+  316  cd ..
+  317  cd ..
+  318  clone git@vogsphere-v2.42sp.org.br:vogsphere/intra-uuid-afcaf9aa-df5b-4030-997b-74585f2bef7a-3585178
+  319  git clone git@vogsphere-v2.42sp.org.br:vogsphere/intra-uuid-afcaf9aa-df5b-4030-997b-74585f2bef7a-3585178
+  320  cd intra-uuid-afcaf9aa-df5b-4030-997b-74585f2bef7a-3585178/
+  321  git add
+  322  git status
+  323  git .
+  324  git add .
+  325  git status
+  326  cd ex01"
+  327  clear
+  328  ls
+  329  cd ex01
+  330  ls
+  331  tar -xf testShell00.tar 
+  332  ls -l
+  333  rm testShell00
+  334  clear
+  335  ls
+  336  cd ..
+  337  git commit -m "exercicios"
+  338  git push
+  339  git log
+  340  cd ..
+  341  cd intra-uuid-1f8d0cb5-c03e-435a-934a-e945abb51a6f-3584458/
+  342  cd ex04
+  343  ls
+  344  bash MAC.sh 
+  345  grep --help
+  346  ifconfig | grep -e ether -e ax25 -e ARCnet | tr -s ' ' | cut -d ' ' -f3
+  347  cd ..
+  348  cd ex05
+  349  touch '"\?$*’MaRViN’*$?\"'
+  350  cd ..
+  351  mkdir ex06
+  352  cd ex06
+  353  cd ..
+  354  cd ..
+  355  cd testes
+  356  mkdir apontado
+  357  ln -s apontado apontando
+  358  ls -l
+  359  touch -help
+  360  touch --help
+  361  clear
+  362  cd ..
+  363  cd intra-uuid-1f8d0cb5-c03e-435a-934a-e945abb51a6f-3584458/
+  364  ls
+  365  clear
+  366  cd ex06
+  367  ls
+  368  clear
+  369  touch skip.sh
+  370  ls --help
+  371  man awk
+  372  clear
+  373  ls
+  374  cd sed
+  375  clear
+  376  sed -i.bak 's/t/T/g' teste1
+  377  ls
+  378  cat teste1
+  379  cat teste1.bak
+  380  clear
+  381  cat teste1
+  382  vim teste1
+  383  clear
+  384  cat teste1
+  385  sed 's/^we/changed/g'
+  386  sed 's/^we/changed/g' teste1
+  387  sed 's/file$/changed/g' teste1
+  388  sed 's/file.$/changed/g' teste1
+  389  vim teste1
+  390  sed 's/t/T/g' teste1
+  391  sed -i 's/t/T/g' teste1
+  392  cat teste1
+  393  clear
+  394  teste 1
+  395  cat teste1
+  396  sed 's/[0-9]/*/g' teste1
+  397  sed 's/[a-z]/*/g' teste1
+  398  sed 's/[a-z]/*/' teste1
+  399  sed 's/[A-Z]/*/g' teste1
+  400  sed 's/[A-Z]/*/g' teste1
+  401  sed 's/[a-z][A-Z]/*/g' teste1
+  402  sed 's/[a-zA-Z]/*/g' teste1
+  403  clear
+  404  cat teste1
+  405  sed 's/[A-Z]s/*/g' teste1
+  406  cat /etc/passwd
+  407  clear
+  408  cat text1
+  409  cat teste1
+  410  sed 's/[0-9]/(&)/'
+  411  sed$ sed 's/[0-9]/(&)/'
+  412  sed$ sed 's/[0-9]/(&)/' teste1
+  413  sed$ sed 's/[0-9]/($)/' teste1
+  414  cd sed
+  415  sed 's/[0-9]/($)/' teste1
+  416  sed 's/[0-9]/(&)/' teste1
+  417  sed 's/[0-9]/(&)/g' teste1
+  418  sed 's/[0-9][0-9]*/(&)/g' teste1
+  419  sed 's/[0-9][0-9]/(&)/g' teste1
+  420  sed 's/an*/&*/g' teste1
+  421  sed 's/an*/0/g' teste1
+  422  sed 's/an*/&*/g' teste1
+  423  man execdir
+  424  man find
+  425  pwd
+  426  pwd | basename -s.sh {} ';'
+  427  pwd | basename -s.sh
+  428  pwd | basename -s.sh {}
+  429  man basename
+  430  git log
+  431  cd intra-uuid-afcaf9aa-df5b-4030-997b-74585f2bef7a-3585178/
+  432  git log
+  433  git log | grep commit
+  434  git log | grep commit | cut -c 8-48
+  435  git log | grep commit | cut -c 8-48 | sed 's/[:space:]/*/'
+  436  git log | grep commit | cut -c 8-48 | sed 's/[[:space:]]/*/'
+  437  git log --pretty=format:"%H" -5
+  438  cd ..
+  439  cd intra-uuid-1f8d0cb5-c03e-435a-934a-e945abb51a6f-3584458/
+  440  cd ex05
+  441  ls
+  442  clear
+  443  ls -lRa *MaRV* | cat -e
+  444  touch "\"\\?\$*'MaRViN'*\$?\\""
+  445  ls -lRa *MaRV* | cat -e
+  446  touch "\"\\?\$*'MaRViN'*\$?\\""
+  447  ls -lRa *MaRV* | cat -e
+  448  touch "\"\\?\$*'MaRViN'*\$?\\\""
+  449  cd ..
+  450  cd ex07
+  451  ls
+  452  touch file
+  453  vim file
+  454  sed '^#' -d file
+  455  grep '#' file 
+  456  grep '#' file -d
+  457  grep --help
+  458  grep -v '#' file
+  459  cat /etc/passw | grep -v '#' | sed 'n;p'
+  460  cat /etc/passw | grep -v '#' | sed 'n;p'
+  461  cd ..
+  462  cd ..
+  463  cat /etc/passw | grep -v '#' | sed 'n;p'
+  464  cat /etc/passwd | grep -v '#' | sed 'n;p'
+  465  cat /etc/passwd | grep -v '#' | sed 'n;p'| cut -d ':' f1
+  466  clear
+  467  cat /etc/passwd | grep -v '#' | sed 'n;p'| cut -d ':' -f1
+  468  clear
+  469  cat /etc/passwd
+  470  cat /etc/passwd | grep -v '#' | sed 'n;p'
+  471  cat /etc/passwd | grep -v '#' | sed -n 'n;p'
+  472  clear
+  473  cat /etc/passwd | grep -v '#' | sed -n 'n;p'| cut -d ':' -f1
+  474  clear
+  475  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1
+  476  cat /etc/passwd
+  477  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1
+  478  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1
+  479  sort --help
+  480  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed '7,15'p 
+  481  clear
+  482  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p 
+  483  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p 
+  484  clear
+  485  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p 
+  486  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r
+  487  clear
+  488  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p | sed -n 's/&/,/'
+  489  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p | sed  's/&/,/'
+  490  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p | sed  's/$/,/'
+  491  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p | sed  's/$/,/' | cat -e
+  492  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p | sed  's/&/,/' | tr -d '\n'
+  493  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p | sed  's/&/,/' |  '\n' -d
+  494  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p | sed  's/&/,/' |tr  '\n' -d
+  495  clear
+  496  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p | sed  's/&/,/'
+  497  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p | sed  's/$/, /'
+  498  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p | sed  's/$/, /' | tr -d '\n'
+  499  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p | sed  's/$/, /' | tr -d '\n' | sed 's/, $/./'
+  500  clear
+  501  git clone https://github.com/alsmd/42sp
+  502  cd 42sp/
+  503  cd codigos
+  504  ls
+  505  history > dia_4
