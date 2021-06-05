@@ -1,0 +1,500 @@
+    3  mkdir ex03
+    4  cd ex03
+    5  wc --help
+    6  touch count_files.sh
+    7  find . -type f
+    8  find . -type f | wc -l
+    9  find 
+   10  find .  | wc -l
+   11  cd ..
+   12  mkdir ex04
+   13  cd ex04
+   14  ifconfig
+   15  ifconfig | grep HWaddr
+   16  ip route list
+   17  ip hwddr show
+   18  ip addr show
+   19  clear
+   20  ip addr show
+   21  ip addr show | grep HWaddr
+   22  ip addr show | grep addr
+   23  ip addr show
+   24  ip link show
+   25  ifconfig
+   26  arping
+   27  ip
+   28  ip -d
+   29  ip addr show
+   30  ip link show
+   31  ip link show
+   32  ip link show
+   33  ip link show
+   34  ip link show
+   35  clear
+   36  clear
+   37  ip link show
+   38  clear
+   39  ifconfing
+   40  ifconfig
+   41  ifconfig -a link
+   42  ifconfig | grep ether
+   43  ifconfig
+   44  clear
+   45  ip
+   46  ipconfig
+   47  ip config
+   48  ifconfig
+   49  ifconfig | grep ether
+   50  ifconfig | grep ether
+   51  ifconfig | grep ether | cut -d ' ' -f2
+   52  ifconfig | grep ether | cut -d ' ' -f
+   53  ifconfig | grep ether | cut -d ' ' -f1
+   54  ifconfig | grep ether | cut -d '' -f1
+   55  ifconfig | grep ether | cut -d '' -f2
+   56  ifconfig | grep ether | cut -d ' ' -f2
+   57  ifconfig | grep ether | cut -d ' ' -f2
+   58  tr --help
+   59  rev --help
+   60  cat arquivo
+   61  file sistema
+   62  file --help
+   63  /usr/share/misc/magic.
+   64  cd /usr/share/misc/magic.
+   65  cat arquivo
+   66  rev arquivo
+   67  touch teste.php
+   68  file teste.php
+   69  touch teste.c
+   70  file teste.c
+   71  man magic
+   72  clear
+   73  cd intra-uuid-1f8d0cb5-c03e-435a-934a-e945abb51a6f-3584458/
+   74  ex02
+   75  ls
+   76  cd ex02
+   77  ls
+   78  clear
+   79  ls
+   80  find . -name '*.sh'
+   81  find . -name '*.sh' | rev
+   82  find . -name '*.sh' | rev | c -d '/' f1
+   83  find . -name '*.sh' | rev | c -d '/' -f1
+   84  find . -name '*.sh' | rev | cut -d '/' -f1
+   85  find . -name '*.sh' | rev | cut -d '/' -f1 | rev
+   86  find . -name '*.sh' | rev | cut -d '/' -f1 | rev
+   87  [-e .gitignore] && ls ${cat .gitignore} 
+   88  2>/dev/null
+   89  cd 42 sp
+   90  vim .gitignore
+   91  [-e .gitignore] && ls ${cat .gitignore} 
+   92  rm .gitignore
+   93   ifconfig | grep ether | cut -d ' ' -f2 | tr -d ' '
+   94   ifconfig | grep ether | tr -d ' '
+   95   ifconfig | grep ether | tr -d ' ' | cut -d 'ether' -f1
+   96   ifconfig | grep ether | tr -d ' ' | cut -d '' -f1
+   97  tr --help
+   98   ifconfig | grep ether | tr -s ' ' | cut -d '' -f1
+   99   ifconfig | grep ether | tr -s ' ' | cut -d '' -f1
+  100  ifconfig | grep ether | tr -s ' ' | cut -d ' ' -f1 
+  101  ifconfig | grep ether | tr -s ' ' | cut -d '' -f 
+  102  ifconfig | grep ether | tr -s ' ' | cut -d '' -f1 
+  103  ifconfig | grep ether | tr -s ' ' | cut -d '' -f1 
+  104  ifconfig | grep ether | tr -s ' ' | cut -d '' -f2 
+  105  ifconfig | grep ether | tr -s ' ' | cut -d ' ' -f2 
+  106  ifconfig | grep ether | tr -s ' ' | cut -d ' ' -f3 
+  107  clear
+  108  cd ..
+  109  cd ..
+  110  clone git@vogsphere-v2.42sp.org.br:vogsphere/intra-uuid-afcaf9aa-df5b-4030-997b-74585f2bef7a-3585178
+  111  git clone git@vogsphere-v2.42sp.org.br:vogsphere/intra-uuid-afcaf9aa-df5b-4030-997b-74585f2bef7a-3585178
+  112  cd intra-uuid-afcaf9aa-df5b-4030-997b-74585f2bef7a-3585178/
+  113  git add
+  114  git status
+  115  git .
+  116  git add .
+  117  git status
+  118  cd ex01"
+  119  clear
+  120  ls
+  121  cd ex01
+  122  ls
+  123  tar -xf testShell00.tar 
+  124  ls -l
+  125  rm testShell00
+  126  clear
+  127  ls
+  128  cd ..
+  129  git commit -m "exercicios"
+  130  git push
+  131  git log
+  132  cd ..
+  133  cd intra-uuid-1f8d0cb5-c03e-435a-934a-e945abb51a6f-3584458/
+  134  cd ex04
+  135  ls
+  136  bash MAC.sh 
+  137  grep --help
+  138  ifconfig | grep -e ether -e ax25 -e ARCnet | tr -s ' ' | cut -d ' ' -f3
+  139  cd ..
+  140  cd ex05
+  141  touch '"\?$*’MaRViN’*$?\"'
+  142  cd ..
+  143  mkdir ex06
+  144  cd ex06
+  145  cd ..
+  146  cd ..
+  147  cd testes
+  148  mkdir apontado
+  149  ln -s apontado apontando
+  150  ls -l
+  151  touch -help
+  152  touch --help
+  153  clear
+  154  cd ..
+  155  cd intra-uuid-1f8d0cb5-c03e-435a-934a-e945abb51a6f-3584458/
+  156  ls
+  157  clear
+  158  cd ex06
+  159  ls
+  160  clear
+  161  touch skip.sh
+  162  ls --help
+  163  man awk
+  164  clear
+  165  ls
+  166  cd sed
+  167  clear
+  168  sed -i.bak 's/t/T/g' teste1
+  169  ls
+  170  cat teste1
+  171  cat teste1.bak
+  172  clear
+  173  cat teste1
+  174  vim teste1
+  175  clear
+  176  cat teste1
+  177  sed 's/^we/changed/g'
+  178  sed 's/^we/changed/g' teste1
+  179  sed 's/file$/changed/g' teste1
+  180  sed 's/file.$/changed/g' teste1
+  181  vim teste1
+  182  sed 's/t/T/g' teste1
+  183  sed -i 's/t/T/g' teste1
+  184  cat teste1
+  185  clear
+  186  teste 1
+  187  cat teste1
+  188  sed 's/[0-9]/*/g' teste1
+  189  sed 's/[a-z]/*/g' teste1
+  190  sed 's/[a-z]/*/' teste1
+  191  sed 's/[A-Z]/*/g' teste1
+  192  sed 's/[A-Z]/*/g' teste1
+  193  sed 's/[a-z][A-Z]/*/g' teste1
+  194  sed 's/[a-zA-Z]/*/g' teste1
+  195  clear
+  196  cat teste1
+  197  sed 's/[A-Z]s/*/g' teste1
+  198  cat /etc/passwd
+  199  clear
+  200  cat text1
+  201  cat teste1
+  202  sed 's/[0-9]/(&)/'
+  203  sed$ sed 's/[0-9]/(&)/'
+  204  sed$ sed 's/[0-9]/(&)/' teste1
+  205  sed$ sed 's/[0-9]/($)/' teste1
+  206  cd sed
+  207  sed 's/[0-9]/($)/' teste1
+  208  sed 's/[0-9]/(&)/' teste1
+  209  sed 's/[0-9]/(&)/g' teste1
+  210  sed 's/[0-9][0-9]*/(&)/g' teste1
+  211  sed 's/[0-9][0-9]/(&)/g' teste1
+  212  sed 's/an*/&*/g' teste1
+  213  sed 's/an*/0/g' teste1
+  214  sed 's/an*/&*/g' teste1
+  215  man execdir
+  216  man find
+  217  pwd
+  218  pwd | basename -s.sh {} ';'
+  219  pwd | basename -s.sh
+  220  pwd | basename -s.sh {}
+  221  man basename
+  222  git log
+  223  cd intra-uuid-afcaf9aa-df5b-4030-997b-74585f2bef7a-3585178/
+  224  git log
+  225  git log | grep commit
+  226  git log | grep commit | cut -c 8-48
+  227  git log | grep commit | cut -c 8-48 | sed 's/[:space:]/*/'
+  228  git log | grep commit | cut -c 8-48 | sed 's/[[:space:]]/*/'
+  229  git log --pretty=format:"%H" -5
+  230  cd ..
+  231  cd intra-uuid-1f8d0cb5-c03e-435a-934a-e945abb51a6f-3584458/
+  232  cd ex05
+  233  ls
+  234  clear
+  235  ls -lRa *MaRV* | cat -e
+  236  touch "\"\\?\$*'MaRViN'*\$?\\""
+  237  ls -lRa *MaRV* | cat -e
+  238  touch "\"\\?\$*'MaRViN'*\$?\\""
+  239  ls -lRa *MaRV* | cat -e
+  240  touch "\"\\?\$*'MaRViN'*\$?\\\""
+  241  cd ..
+  242  cd ex07
+  243  ls
+  244  touch file
+  245  vim file
+  246  sed '^#' -d file
+  247  grep '#' file 
+  248  grep '#' file -d
+  249  grep --help
+  250  grep -v '#' file
+  251  cat /etc/passw | grep -v '#' | sed 'n;p'
+  252  cat /etc/passw | grep -v '#' | sed 'n;p'
+  253  cd ..
+  254  cd ..
+  255  cat /etc/passw | grep -v '#' | sed 'n;p'
+  256  cat /etc/passwd | grep -v '#' | sed 'n;p'
+  257  cat /etc/passwd | grep -v '#' | sed 'n;p'| cut -d ':' f1
+  258  clear
+  259  cat /etc/passwd | grep -v '#' | sed 'n;p'| cut -d ':' -f1
+  260  clear
+  261  cat /etc/passwd
+  262  cat /etc/passwd | grep -v '#' | sed 'n;p'
+  263  cat /etc/passwd | grep -v '#' | sed -n 'n;p'
+  264  clear
+  265  cat /etc/passwd | grep -v '#' | sed -n 'n;p'| cut -d ':' -f1
+  266  clear
+  267  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1
+  268  cat /etc/passwd
+  269  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1
+  270  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1
+  271  sort --help
+  272  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed '7,15'p 
+  273  clear
+  274  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p 
+  275  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p 
+  276  clear
+  277  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p 
+  278  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r
+  279  clear
+  280  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p | sed -n 's/&/,/'
+  281  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p | sed  's/&/,/'
+  282  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p | sed  's/$/,/'
+  283  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p | sed  's/$/,/' | cat -e
+  284  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p | sed  's/&/,/' | tr -d '\n'
+  285  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p | sed  's/&/,/' |  '\n' -d
+  286  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p | sed  's/&/,/' |tr  '\n' -d
+  287  clear
+  288  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p | sed  's/&/,/'
+  289  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p | sed  's/$/, /'
+  290  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p | sed  's/$/, /' | tr -d '\n'
+  291  cat /etc/passwd | sed '/#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p | sed  's/$/, /' | tr -d '\n' | sed 's/, $/./'
+  292  clear
+  293  mkdir c_teste
+  294  cd c_teste/
+  295  touch ft_print_alphabet.c
+  296  ls
+  297  clear
+  298  gcc ft_print_alphabet.c
+  299  ./a.out
+  300  touch ft_print_alphabet.c
+  301  touch ft_putchar.c
+  302  gcc ft_print_alphabet.c 
+  303  clear
+  304  gcc ft_print_alphabet.c 
+  305  clear
+  306  gcc ft_print_alphabet.c 
+  307  gcc ft_print_alphabet.c 
+  308  gcc ft_print_alphabet.c 
+  309  ./a.out
+  310  gcc ft_print_alphabet.c 
+  311  ./a.out
+  312  gcc ft_print_alphabet.c 
+  313  gcc ft_print_alphabet.c 
+  314  ./a.out
+  315  clear
+  316  gcc ft_print_alphabet.c 
+  317  gcc ft_print_alphabet.c 
+  318  ./a.out
+  319  cd Shell01/
+  320  cd ex01
+  321  FT_USER = student
+  322  $FT_USER = student
+  323  FT_USER=student
+  324  bash print_groups.sh 
+  325  bash print_groups.sh 
+  326  clear
+  327  clear
+  328  export FT_UESR
+  329  bash print_groups.sh 
+  330  ENV
+  331  env
+  332  env  | FT_UESR
+  333  env  | grep FT_UESR
+  334  export $FT_USER
+  335  env  | grep FT_UESR
+  336  echo $FT_USER
+  337  groups student
+  338  groups student | tr ' ' ','
+  339  FT_USER=student
+  340  export $FT_USER
+  341  env  | grep FT_UESR
+  342  env
+  343  export FT_USER
+  344  env
+  345  bash print_groups.sh 
+  346  cd ..
+  347  cd ex02
+  348  ls
+  349  bash find_sh.sh 
+  350  cd ..
+  351  cd ex05
+  352  ls
+  353  clear
+  354  ls -lRa *MaRV* | cat -e
+  355  cd ..
+  356  cd ex06
+  357  bash skip.sh 
+  358  clea
+  359  clear
+  360  bash skip.sh 
+  361  1 + 1
+  362  bash sw
+  363  sw
+  364  /bin/sw
+  365  pwd
+  366  sh
+  367  echo '333 * 0.35' | bc
+  368  man bc
+  369  echo '333 * 3' | bc
+  370  echo '333 * 3'
+  371  echo '333 * 3' | bc
+  372  echo 'ibase=16;333 * 3' | bc
+  373  echo 'ibase=16;333' | bc
+  374  echo 'ibase=16;FEF33D9' | bc
+  375  echo 'ibase=16;obase=8;FEF33D9' | bc
+  376  echo 'ibase=16;obase=2;FEF33D9' | bc
+  377  cd Shell01/
+  378  cd ex07
+  379  ls
+  380  clear
+  381  touch teste
+  382  FT_NBR1=\'?"\"'\
+  383  FT_NBR1=\\\'\?\"\\\"\'\\
+  384  echo $FT_NBR1
+  385  CLEAR
+  386  clear
+  387  export FT_NBR1
+  388  FT_NBR2=rcrdmddd
+  389  export FT_NBR2
+  390  CLEAR
+  391  clear
+  392  cd ..
+  393  mkdir ex08
+  394  bash teste.sh
+  395  cd ..
+  396  cd Shell01/
+  397  cd ex08
+  398  bash teste.sh
+  399  bash teste.sh
+  400  bash teste.sh
+  401  bash teste.sh
+  402  bash teste.sh
+  403  bash teste.sh
+  404  bash teste.sh
+  405  bash teste.sh
+  406  bash teste.sh
+  407  clear
+  408  clear
+  409  bash teste.sh
+  410  bash teste.sh
+  411  bash teste.sh
+  412  bash teste.sh
+  413  bash teste.sh
+  414  bash teste.sh
+  415  man xargs
+  416  man xargs
+  417  bash teste.sh
+  418  bash teste.sh
+  419  bash teste.sh
+  420  bash teste.sh
+  421  bash teste.sh
+  422  clear
+  423  clear
+  424  bash teste.sh
+  425  bash teste.sh
+  426  bash teste.sh
+  427  echo $FT_NBR1 + $FT_NBR2 | sed 's/\\/1/g' | sed 's/?/3/g' | sed 's/!/4/g' | sed "s/\'/0/g" | sed "s/\"/2/g" | tr "mrdoc" "01234" | xargs echo "ibase=5; obase=23;" | bc | tr "0123456789ABC" "gtaio luSnemf"
+  428  clear
+  429  clear
+  430  echo $FT_NBR1 + $FT_NBR2 | sed 's/\\/1/g' | sed 's/?/3/g' | sed 's/!/4/g' | sed "s/\'/0/g" | sed "s/\"/2/g" | tr "mrdoc" "01234" | xargs echo "ibase=5; obase=23;" | bc | tr "0123456789ABC" "gtaio luSnemf"
+  431  bash teste.sh
+  432  bash teste.sh
+  433  clear
+  434  bash teste.sh
+  435  bash teste.sh
+  436  bash teste.sh
+  437  bash teste.sh
+  438  bash teste.sh
+  439  cd Shell01/
+  440  cd ex08
+  441  ls
+  442  bash teste.sh 
+  443  bash teste.sh 2> 
+  444  bash teste.sh 2> erro
+  445  touch teste.c
+  446  gcc teste.c
+  447  gcc teste.c
+  448  clear
+  449  gcc teste.c
+  450  clear
+  451  gcc teste.c
+  452  ./a.out
+  453  cd ..
+  454  cd .git
+  455  cd info
+  456  cat exclude
+  457  clear
+  458  cat exclude
+  459  git status
+  460  cd intra-uuid-44173765-ced5-4b2a-bcce-dbe5b0ccfac9-3585899/
+  461  git status
+  462  clear
+  463  cd ..
+  464  cd c_teste
+  465  ls
+  466  touch ponteiro.c
+  467  man printf
+  468  clear
+  469  gcc ponteiro.c
+  470  ./a.out
+  471  gcc ponteiro.c
+  472  ./a.out
+  473  gcc ponteiro.c
+  474  clear
+  475  gcc ponteiro.c
+  476  gcc ponteiro.c
+  477  ./a.out
+  478  gcc ponteiro.c
+  479  clear
+  480  gcc ponteiro.c
+  481  gcc ponteiro.c
+  482  clear
+  483  ./a.out
+  484  clear
+  485  gcc ponteiro.c
+  486  clear
+  487  gcc ponteiro.c
+  488  gcc ponteiro.c
+  489  ./a.out
+  490  clear
+  491  ./a.out
+  492  gcc ponteiro.c
+  493  clear
+  494  gcc ponteiro.c
+  495  clear
+  496  gcc ponteiro.c
+  497  ./a.out
+  498  git clone https://github.com/alsmd/42sp
+  499  cd 42sp
+  500  cd codigos
+  501  ls
+  502  history > dia_5
