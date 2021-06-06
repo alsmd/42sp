@@ -1,0 +1,500 @@
+    2  export $FT_USER
+    3  env  | grep FT_UESR
+    4  echo $FT_USER
+    5  groups student
+    6  groups student | tr ' ' ','
+    7  FT_USER=student
+    8  export $FT_USER
+    9  env  | grep FT_UESR
+   10  env
+   11  export FT_USER
+   12  env
+   13  bash print_groups.sh 
+   14  cd ..
+   15  cd ex02
+   16  ls
+   17  bash find_sh.sh 
+   18  cd ..
+   19  cd ex05
+   20  ls
+   21  clear
+   22  ls -lRa *MaRV* | cat -e
+   23  cd ..
+   24  cd ex06
+   25  bash skip.sh 
+   26  clea
+   27  clear
+   28  bash skip.sh 
+   29  1 + 1
+   30  bash sw
+   31  sw
+   32  /bin/sw
+   33  pwd
+   34  sh
+   35  echo '333 * 0.35' | bc
+   36  man bc
+   37  echo '333 * 3' | bc
+   38  echo '333 * 3'
+   39  echo '333 * 3' | bc
+   40  echo 'ibase=16;333 * 3' | bc
+   41  echo 'ibase=16;333' | bc
+   42  echo 'ibase=16;FEF33D9' | bc
+   43  echo 'ibase=16;obase=8;FEF33D9' | bc
+   44  echo 'ibase=16;obase=2;FEF33D9' | bc
+   45  cd Shell01/
+   46  cd ex07
+   47  ls
+   48  clear
+   49  touch teste
+   50  FT_NBR1=\'?"\"'\
+   51  FT_NBR1=\\\'\?\"\\\"\'\\
+   52  echo $FT_NBR1
+   53  CLEAR
+   54  clear
+   55  export FT_NBR1
+   56  FT_NBR2=rcrdmddd
+   57  export FT_NBR2
+   58  CLEAR
+   59  clear
+   60  cd ..
+   61  mkdir ex08
+   62  bash teste.sh
+   63  cd ..
+   64  cd Shell01/
+   65  cd ex08
+   66  bash teste.sh
+   67  bash teste.sh
+   68  bash teste.sh
+   69  bash teste.sh
+   70  bash teste.sh
+   71  bash teste.sh
+   72  bash teste.sh
+   73  bash teste.sh
+   74  bash teste.sh
+   75  clear
+   76  clear
+   77  bash teste.sh
+   78  bash teste.sh
+   79  bash teste.sh
+   80  bash teste.sh
+   81  bash teste.sh
+   82  bash teste.sh
+   83  man xargs
+   84  man xargs
+   85  bash teste.sh
+   86  bash teste.sh
+   87  bash teste.sh
+   88  bash teste.sh
+   89  bash teste.sh
+   90  clear
+   91  clear
+   92  bash teste.sh
+   93  bash teste.sh
+   94  bash teste.sh
+   95  echo $FT_NBR1 + $FT_NBR2 | sed 's/\\/1/g' | sed 's/?/3/g' | sed 's/!/4/g' | sed "s/\'/0/g" | sed "s/\"/2/g" | tr "mrdoc" "01234" | xargs echo "ibase=5; obase=23;" | bc | tr "0123456789ABC" "gtaio luSnemf"
+   96  clear
+   97  clear
+   98  echo $FT_NBR1 + $FT_NBR2 | sed 's/\\/1/g' | sed 's/?/3/g' | sed 's/!/4/g' | sed "s/\'/0/g" | sed "s/\"/2/g" | tr "mrdoc" "01234" | xargs echo "ibase=5; obase=23;" | bc | tr "0123456789ABC" "gtaio luSnemf"
+   99  bash teste.sh
+  100  bash teste.sh
+  101  clear
+  102  bash teste.sh
+  103  bash teste.sh
+  104  bash teste.sh
+  105  bash teste.sh
+  106  bash teste.sh
+  107  cd Shell01/
+  108  cd ex08
+  109  ls
+  110  bash teste.sh 
+  111  bash teste.sh 2> 
+  112  bash teste.sh 2> erro
+  113  touch teste.c
+  114  gcc teste.c
+  115  gcc teste.c
+  116  clear
+  117  gcc teste.c
+  118  clear
+  119  gcc teste.c
+  120  ./a.out
+  121  cd ..
+  122  cd .git
+  123  cd info
+  124  cat exclude
+  125  clear
+  126  cat exclude
+  127  git status
+  128  cd intra-uuid-44173765-ced5-4b2a-bcce-dbe5b0ccfac9-3585899/
+  129  git status
+  130  clear
+  131  cd ..
+  132  cd c_teste
+  133  ls
+  134  touch ponteiro.c
+  135  man printf
+  136  clear
+  137  gcc ponteiro.c
+  138  ./a.out
+  139  gcc ponteiro.c
+  140  ./a.out
+  141  gcc ponteiro.c
+  142  clear
+  143  gcc ponteiro.c
+  144  gcc ponteiro.c
+  145  ./a.out
+  146  gcc ponteiro.c
+  147  clear
+  148  gcc ponteiro.c
+  149  gcc ponteiro.c
+  150  clear
+  151  ./a.out
+  152  clear
+  153  gcc ponteiro.c
+  154  clear
+  155  gcc ponteiro.c
+  156  gcc ponteiro.c
+  157  ./a.out
+  158  clear
+  159  ./a.out
+  160  gcc ponteiro.c
+  161  clear
+  162  gcc ponteiro.c
+  163  clear
+  164  gcc ponteiro.c
+  165  ./a.out
+  166  history
+  167  clear
+  168  cd ..
+  169  git status
+  170  git add codigos
+  171  git commit -m "comandos dia 5"
+  172  git push
+  173  cd ..
+  174  cd c_teste
+  175  cd ponteiros
+  176  cp ponteiro3.c ponteiro4.c
+  177  clear
+  178  gcc ponteiro4.c 
+  179  clear
+  180  gcc ponteiro4.c 
+  181  ./a.out
+  182  clear
+  183  gcc ponteiro4.c 
+  184  ./a.out
+  185  clear
+  186  gcc ponteiro4.c 
+  187  ./a.out
+  188  gcc ponteiro4.c 
+  189  ./a.out
+  190  gcc ponteiro4.c 
+  191  ./a.out
+  192  clear
+  193  gcc ponteiro4.c 
+  194  ./a.out
+  195  clear
+  196  gcc ponteiro4.c 
+  197  ./a.out
+  198  gcc ponteiro4.c 
+  199  ./a.out
+  200  gcc ponteiro4.c 
+  201  ./a.out
+  202  clear
+  203  gcc ponteiro4.c 
+  204  ./a.out
+  205  gcc ponteiro4.c 
+  206  ./a.out
+  207  gcc ponteiro4.c 
+  208  clear
+  209  gcc ponteiro4.c 
+  210  ./a.out
+  211  git log -5 --pretty=format:"%H" | cat -e
+  212  git log -5 --pretty=format:"%H" | cat -e
+  213  git log --pretty=format:"%H" -5 | cat -e
+  214  git log -5 --pretty=format:"%H" | cat -e
+  215  git log -5 --pretty=format:"%H" | cat -e
+  216  git log -6 --pretty=format:"%H" | cat -e
+  217  clear
+  218  git log -5 --pretty=format:"%H" | cat -e | sed -i '$ s/line number//g' file
+  219  git log -5 --pretty=format:"%H" | cat -e | sed -i '$ s/&/\n/g' 
+  220  git log -5 --pretty=format:"%H" | cat -e | sed '$ s/&/\n/g'
+  221  git log -5 --pretty=format:"%H" | xarg echo '\n'
+  222  git log -5 --pretty=format:"%H" | xargs echo '\n'
+  223  git log -5 --pretty=format:"%H" | xargs echo '\n' | cat -e
+  224  git log -5 --pretty=format:"%H" | xargs echo '\n' | sed 's/ /\\n/'
+  225  git log -5 --pretty=format:"%H" | xargs echo '\n' | sed 's/[space]/\\n/'
+  226  git log -5 --pretty=format:"%H" | xargs echo '\n' | sed 's/:[space]:/\\n/'
+  227  git log -5 --pretty=format:"%H" | xargs echo '\n' | sed 's/[[:space:]]/\\n/'
+  228  clear
+  229  git log -5 --pretty=format:"%H" | xargs echo '\n' | sed 's/[[:space:]]/\\n/'
+  230  git log -5 --pretty=format:"%H" | xargs echo '\n' | tr ' ' '\n'
+  231  git log -5 --pretty=format:"%H" | xargs echo '\n' | tr ' ' '\n' | cat -e
+  232  clear
+  233  git log -5 --pretty=format:"%H" | cat -e
+  234  clear
+  235  git log -5 --pretty=format:"%H" | xargs echo '\n' | tr ' ' '\n' | cat -e
+  236  git log -5 --pretty=format:"%H" | xargs echo '\n' | tr ' ' '\n' | cat -e
+  237  clear
+  238  git log -5 --pretty=format:"%H"  | tr ' ' '\n' | cat -e
+  239  clear
+  240  git log -5 --pretty=format:"%H"  | tr ' ' '\n' | cat -e
+  241  git log -5 --pretty=format:"%H" | xargs echo '\n' | tr ' ' '\n' | cat -e
+  242  git log -5 --pretty=format:"%H" | xargs echo \\n | tr ' ' '\n' | cat -e
+  243  sh
+  244  git log -5 --pretty="%H" | cat -e
+  245  clear
+  246  git log -5 --pretty=format:"%H" | cat -e
+  247  clear
+  248  git log -5 --pretty="%H" | cat -e
+  249  clear
+  250  gcc ponteiro7.c && ./a.out 
+  251  cd c_teste/
+  252  cd ponteiros/
+  253  gcc ponteiro7.c && ./a.out
+  254  clear
+  255  gcc ponteiro7.c && ./a.out
+  256  gcc ponteiro7.c && ./a.out
+  257  gcc ponteiro7.c && ./a.out
+  258  clear
+  259  gcc ponteiro7.c && ./a.out
+  260  gcc ponteiro7.c && ./a.out
+  261  gcc ponteiro7.c && ./a.out
+  262  clear
+  263  gcc ponteiro7.c
+  264  gcc ponteiro7.c
+  265  clear
+  266  clear
+  267  gcc ponteiro7.c
+  268  gcc ponteiro7.c
+  269  clear
+  270  gcc ponteiro7.c
+  271  clear
+  272  gcc ponteiro7.c
+  273  gcc ponteiro7.c
+  274  gcc ponteiro7.c
+  275  clear
+  276  gcc ponteiro7.c && ./a.out
+  277  clear
+  278  gcc ponteiro7.c && ./a.out
+  279  clear
+  280  gcc ponteiro7.c && ./a.out
+  281  gcc ponteiro7.c && ./a.out
+  282  clear
+  283  clear
+  284  gcc ponteiro7.c && ./a.out
+  285  clear
+  286  gcc ponteiro7.c && ./a.out
+  287  clear
+  288  gcc ponteiro7.c && ./a.out
+  289  clear
+  290  gcc ponteiro7.c && ./a.out
+  291  clear
+  292  gcc ponteiro7.c && ./a.out
+  293  gcc ponteiro7.c && ./a.out
+  294  clear
+  295  gcc ponteiro7.c && ./a.out
+  296  clear
+  297  gcc ponteiro7.c && ./a.out
+  298  gcc ponteiro7.c && ./a.out
+  299  clear
+  300  gcc ponteiro7.c && ./a.out
+  301  gcc ponteiro7.c && ./a.out
+  302  clear
+  303  gcc ponteiro7.c && ./a.out
+  304  gcc ponteiro7.c && ./a.out
+  305  gcc ponteiro7.c && ./a.out
+  306  clear
+  307  gcc ponteiro7.c && ./a.out
+  308  gcc ponteiro7.c && ./a.out
+  309  clear
+  310  gcc ponteiro7.c && ./a.out
+  311  gcc ponteiro7.c && ./a.out
+  312  gcc ponteiro7.c && ./a.outclear
+  313  clear
+  314  gcc ponteiro7.c && ./a.outclear
+  315  clear
+  316  gcc ponteiro7.c && ./a.outclear
+  317  gcc ponteiro7.c && ./a.out
+  318  clear
+  319  gcc ponteiro7.c && ./a.out
+  320  clear
+  321  gcc ponteiro7.c && ./a.out
+  322  clear
+  323  gcc ponteiro7.c && ./a.out
+  324  clear
+  325  gcc ponteiro7.c && ./a.out
+  326  gcc ponteiro7.c && ./a.out
+  327  clear
+  328  gcc ponteiro7.c && ./a.out
+  329  clear
+  330  gcc ponteiro7.c && ./a.out
+  331  gcc ponteiro7.c && ./a.out
+  332  clear
+  333  gcc ponteiro7.c && ./a.out
+  334  gcc ponteiro7.c && ./a.out
+  335  gcc ponteiro7.c && ./a.out
+  336  gcc ponteiro7.c && ./a.out
+  337  gcc ponteiro7.c && ./a.out
+  338  gcc ponteiro7.c && ./a.out
+  339  gcc ponteiro7.c && ./a.out
+  340  gcc ponteiro7.c && ./a.out
+  341  clear
+  342  cd ..
+  343  gcc ponteiro7.c && ./a.out
+  344  cd ponteiros
+  345  gcc ponteiro7.c && ./a.out
+  346  clear
+  347  clear
+  348  gcc ponteiro7.c && ./a.out
+  349  clear
+  350  gcc ponteiro7.c && ./a.out
+  351  gcc ponteiro7.c && ./a.out
+  352  gcc ponteiro7.c && ./a.out
+  353  gcc ponteiro7.c && ./a.out
+  354  clear
+  355  gcc ponteiro7.c && ./a.out
+  356  gcc ponteiro7.c && ./a.out
+  357  gcc ponteiro7.c && ./a.out
+  358  clear
+  359  gcc ponteiro7.c && ./a.out
+  360  gcc ponteiro7.c && ./a.out
+  361  gcc ponteiro7.c && ./a.out
+  362  clear
+  363  gcc ponteiro7.c && ./a.out
+  364  gcc ponteiro7.c && ./a.out
+  365  gcc ponteiro7.c && ./a.out
+  366  gcc ponteiro7.c && ./a.out
+  367  gcc ponteiro7.c && ./a.out
+  368  gcc ponteiro7.c && ./a.out
+  369  gcc ponteiro7.c && ./a.out
+  370  clear
+  371  clear
+  372  clear
+  373  gcc ponteiro7.c && ./a.out
+  374  gcc ponteiro7.c && ./a.out
+  375  gcc ponteiro7.c && ./a.out
+  376  gcc ponteiro7.c && ./a.out
+  377  gcc ponteiro7.c && ./a.out
+  378  gcc ponteiro7.c && ./a.out
+  379  gcc ponteiro7.c && ./a.out
+  380  gcc ponteiro7.c && ./a.out
+  381  clear
+  382  clear
+  383  gcc ponteiro7.c && ./a.out
+  384  gcc ponteiro7.c && ./a.out
+  385  gcc ponteiro7.c && ./a.out
+  386  gcc ponteiro7.c && ./a.out
+  387  gcc ponteiro7.c && ./a.out
+  388  gcc ponteiro7.c && ./a.out
+  389  clear
+  390  gcc ponteiro7.c && ./a.out
+  391  clear
+  392  gcc ponteiro7.c && ./a.out
+  393  clear
+  394  gcc ponteiro7.c && ./a.out
+  395  gcc ponteiro7.c && ./a.out
+  396  gcc ponteiro7.c && ./a.out
+  397  gcc ponteiro7.c && ./a.out
+  398  gcc ponteiro7.c && ./a.out
+  399  gcc ponteiro7.c && ./a.out
+  400  clear
+  401  clear
+  402  gcc ponteiro7.c && ./a.out
+  403  gcc ponteiro7.c && ./a.out
+  404  gcc ponteiro7.c && ./a.out
+  405  clear
+  406  gcc ponteiro7.c && ./a.out
+  407  gcc ponteiro7.c && ./a.out
+  408  clear
+  409  gcc ponteiro7.c && ./a.out
+  410  clear
+  411  gcc ponteiro7.c && ./a.out
+  412  gcc ponteiro7.c && ./a.out
+  413  clear
+  414  gcc ponteiro7.c && ./a.out
+  415  gcc ponteiro7.c && ./a.out
+  416  gcc ponteiro7.c && ./a.out
+  417  gcc ponteiro7.c && ./a.out
+  418  gcc ponteiro7.c && ./a.out
+  419  gcc ponteiro7.c && ./a.out
+  420  fla
+  421  clear
+  422  fla
+  423  clear
+  424  gcc ponteiro7.c && ./a.out
+  425  clear
+  426  gcc ponteiro7.c && ./a.out
+  427  clear
+  428  gcc ponteiro7.c && ./a.out
+  429  clear
+  430  cd ..
+  431  cd ..
+  432  git clone git@vogsphere-v2.42sp.org.br:vogsphere/intra-uuid-baf83004-414f-47c1-9cc8-3df5dcc607e5-3587149
+  433  git intra-uuid-baf83004-414f-47c1-9cc8-3df5dcc607e5-3587149/
+  434  cd intra-uuid-baf83004-414f-47c1-9cc8-3df5dcc607e5-3587149/
+  435  git status
+  436  git add .
+  437  git commit -m "exercicios"
+  438  git push
+  439  clear
+  440  cd ..
+  441  git clone git@vogsphere-v2.42sp.org.br:vogsphere/intra-uuid-baf83004-414f-47c1-9cc8-3df5dcc607e5-3587149
+  442  git log -5 --pretty="%H"
+  443  cd intra-uuid-baf83004-414f-47c1-9cc8-3df5dcc607e5-3587149/
+  444  git log -5 --pretty="%H"
+  445  clear
+  446  cd ..
+  447  mkdir C0
+  448  mv C0 c00
+  449  cd c00
+  450  clear
+  451  touch ft_putchar.c
+  452  mkdir ex00
+  453  mv ft_putchar.c ex00/
+  454  cd ex00/
+  455  cd ft_putchar.c 
+  456  gcc ft_putchar.c && ./a.out
+  457  clear
+  458  gcc ft_putchar.c && ./a.out
+  459  clear
+  460  gcc ft_putchar.c && ./a.out
+  461  norminatte -Wall -Wextra -Werror ft_putchar.c 
+  462  norminatte ft_putchar.c 
+  463  norminette -Wall -Wextra -Werror ft_putchar.c 
+  464  norminette  -Wall -Wextra -Werror ft_putchar.c 
+  465  norminette  -Wall -Wextra -Werror ft_putchar.c 
+  466  -Wall -Wextra -Werror norminetteft_putchar.c 
+  467  norminette ft_putchar.c  -Wall -Wextra -Werror
+  468  norminette ft_putchar.c 
+  469  clear
+  470   -Wall -Wextra -Werror
+  471  norminette ft_putchar.c 
+  472  clear
+  473  norminette ft_putchar.c 
+  474  norminette ft_putchar.c 
+  475  norminette ft_putchar.c 
+  476  clear
+  477  norminette ft_putchar.c 
+  478  cd ..
+  479  mkdir ex01
+  480  cd ex01
+  481  touch ft_print_alphabet
+  482  gcc ft_print_alphabet.c && ./a.out
+  483  clear
+  484  clear
+  485  norminette ft_print_alphabet.c 
+  486  cd ..
+  487  cd ex02
+  488  clear
+  489  gcc ft_print_reverse_alphabet.c && ./a.out
+  490  norminette ft_print_reverse_alphabet.c 
+  491  cd ..
+  492  mkdir ex03
+  493  clear
+  494  cd ex03
+  495  gcc ft_print_numbers.c && ./a.out
+  496  clear
+  497  gcc ft_print_numbers.c && ./a.out
+  498  cd codigos
+  499  ls
+  500  ls
+  501  history > dia_6
