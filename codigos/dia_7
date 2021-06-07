@@ -1,0 +1,500 @@
+   13  clear
+   14  gcc ponteiro7.c && ./a.out
+   15  clear
+   16  gcc ponteiro7.c && ./a.out
+   17  clear
+   18  gcc ponteiro7.c && ./a.out
+   19  clear
+   20  gcc ponteiro7.c && ./a.out
+   21  gcc ponteiro7.c && ./a.out
+   22  clear
+   23  gcc ponteiro7.c && ./a.out
+   24  clear
+   25  gcc ponteiro7.c && ./a.out
+   26  gcc ponteiro7.c && ./a.out
+   27  clear
+   28  gcc ponteiro7.c && ./a.out
+   29  gcc ponteiro7.c && ./a.out
+   30  clear
+   31  gcc ponteiro7.c && ./a.out
+   32  gcc ponteiro7.c && ./a.out
+   33  gcc ponteiro7.c && ./a.out
+   34  clear
+   35  gcc ponteiro7.c && ./a.out
+   36  gcc ponteiro7.c && ./a.out
+   37  clear
+   38  gcc ponteiro7.c && ./a.out
+   39  gcc ponteiro7.c && ./a.out
+   40  gcc ponteiro7.c && ./a.outclear
+   41  clear
+   42  gcc ponteiro7.c && ./a.outclear
+   43  clear
+   44  gcc ponteiro7.c && ./a.outclear
+   45  gcc ponteiro7.c && ./a.out
+   46  clear
+   47  gcc ponteiro7.c && ./a.out
+   48  clear
+   49  gcc ponteiro7.c && ./a.out
+   50  clear
+   51  gcc ponteiro7.c && ./a.out
+   52  clear
+   53  gcc ponteiro7.c && ./a.out
+   54  gcc ponteiro7.c && ./a.out
+   55  clear
+   56  gcc ponteiro7.c && ./a.out
+   57  clear
+   58  gcc ponteiro7.c && ./a.out
+   59  gcc ponteiro7.c && ./a.out
+   60  clear
+   61  gcc ponteiro7.c && ./a.out
+   62  gcc ponteiro7.c && ./a.out
+   63  gcc ponteiro7.c && ./a.out
+   64  gcc ponteiro7.c && ./a.out
+   65  gcc ponteiro7.c && ./a.out
+   66  gcc ponteiro7.c && ./a.out
+   67  gcc ponteiro7.c && ./a.out
+   68  gcc ponteiro7.c && ./a.out
+   69  clear
+   70  cd ..
+   71  gcc ponteiro7.c && ./a.out
+   72  cd ponteiros
+   73  gcc ponteiro7.c && ./a.out
+   74  clear
+   75  clear
+   76  gcc ponteiro7.c && ./a.out
+   77  clear
+   78  gcc ponteiro7.c && ./a.out
+   79  gcc ponteiro7.c && ./a.out
+   80  gcc ponteiro7.c && ./a.out
+   81  gcc ponteiro7.c && ./a.out
+   82  clear
+   83  gcc ponteiro7.c && ./a.out
+   84  gcc ponteiro7.c && ./a.out
+   85  gcc ponteiro7.c && ./a.out
+   86  clear
+   87  gcc ponteiro7.c && ./a.out
+   88  gcc ponteiro7.c && ./a.out
+   89  gcc ponteiro7.c && ./a.out
+   90  clear
+   91  gcc ponteiro7.c && ./a.out
+   92  gcc ponteiro7.c && ./a.out
+   93  gcc ponteiro7.c && ./a.out
+   94  gcc ponteiro7.c && ./a.out
+   95  gcc ponteiro7.c && ./a.out
+   96  gcc ponteiro7.c && ./a.out
+   97  gcc ponteiro7.c && ./a.out
+   98  clear
+   99  clear
+  100  clear
+  101  gcc ponteiro7.c && ./a.out
+  102  gcc ponteiro7.c && ./a.out
+  103  gcc ponteiro7.c && ./a.out
+  104  gcc ponteiro7.c && ./a.out
+  105  gcc ponteiro7.c && ./a.out
+  106  gcc ponteiro7.c && ./a.out
+  107  gcc ponteiro7.c && ./a.out
+  108  gcc ponteiro7.c && ./a.out
+  109  clear
+  110  clear
+  111  gcc ponteiro7.c && ./a.out
+  112  gcc ponteiro7.c && ./a.out
+  113  gcc ponteiro7.c && ./a.out
+  114  gcc ponteiro7.c && ./a.out
+  115  gcc ponteiro7.c && ./a.out
+  116  gcc ponteiro7.c && ./a.out
+  117  clear
+  118  gcc ponteiro7.c && ./a.out
+  119  clear
+  120  gcc ponteiro7.c && ./a.out
+  121  clear
+  122  gcc ponteiro7.c && ./a.out
+  123  gcc ponteiro7.c && ./a.out
+  124  gcc ponteiro7.c && ./a.out
+  125  gcc ponteiro7.c && ./a.out
+  126  gcc ponteiro7.c && ./a.out
+  127  gcc ponteiro7.c && ./a.out
+  128  clear
+  129  clear
+  130  gcc ponteiro7.c && ./a.out
+  131  gcc ponteiro7.c && ./a.out
+  132  gcc ponteiro7.c && ./a.out
+  133  clear
+  134  gcc ponteiro7.c && ./a.out
+  135  gcc ponteiro7.c && ./a.out
+  136  clear
+  137  gcc ponteiro7.c && ./a.out
+  138  clear
+  139  gcc ponteiro7.c && ./a.out
+  140  gcc ponteiro7.c && ./a.out
+  141  clear
+  142  gcc ponteiro7.c && ./a.out
+  143  gcc ponteiro7.c && ./a.out
+  144  gcc ponteiro7.c && ./a.out
+  145  gcc ponteiro7.c && ./a.out
+  146  gcc ponteiro7.c && ./a.out
+  147  gcc ponteiro7.c && ./a.out
+  148  fla
+  149  clear
+  150  fla
+  151  clear
+  152  gcc ponteiro7.c && ./a.out
+  153  clear
+  154  gcc ponteiro7.c && ./a.out
+  155  clear
+  156  gcc ponteiro7.c && ./a.out
+  157  clear
+  158  cd ..
+  159  cd ..
+  160  git clone git@vogsphere-v2.42sp.org.br:vogsphere/intra-uuid-baf83004-414f-47c1-9cc8-3df5dcc607e5-3587149
+  161  git intra-uuid-baf83004-414f-47c1-9cc8-3df5dcc607e5-3587149/
+  162  cd intra-uuid-baf83004-414f-47c1-9cc8-3df5dcc607e5-3587149/
+  163  git status
+  164  git add .
+  165  git commit -m "exercicios"
+  166  git push
+  167  clear
+  168  cd ..
+  169  git clone git@vogsphere-v2.42sp.org.br:vogsphere/intra-uuid-baf83004-414f-47c1-9cc8-3df5dcc607e5-3587149
+  170  git log -5 --pretty="%H"
+  171  cd intra-uuid-baf83004-414f-47c1-9cc8-3df5dcc607e5-3587149/
+  172  git log -5 --pretty="%H"
+  173  clear
+  174  cd ..
+  175  mkdir C0
+  176  mv C0 c00
+  177  cd c00
+  178  clear
+  179  touch ft_putchar.c
+  180  mkdir ex00
+  181  mv ft_putchar.c ex00/
+  182  cd ex00/
+  183  cd ft_putchar.c 
+  184  gcc ft_putchar.c && ./a.out
+  185  clear
+  186  gcc ft_putchar.c && ./a.out
+  187  clear
+  188  gcc ft_putchar.c && ./a.out
+  189  norminatte -Wall -Wextra -Werror ft_putchar.c 
+  190  norminatte ft_putchar.c 
+  191  norminette -Wall -Wextra -Werror ft_putchar.c 
+  192  norminette  -Wall -Wextra -Werror ft_putchar.c 
+  193  norminette  -Wall -Wextra -Werror ft_putchar.c 
+  194  -Wall -Wextra -Werror norminetteft_putchar.c 
+  195  norminette ft_putchar.c  -Wall -Wextra -Werror
+  196  norminette ft_putchar.c 
+  197  clear
+  198   -Wall -Wextra -Werror
+  199  norminette ft_putchar.c 
+  200  clear
+  201  norminette ft_putchar.c 
+  202  norminette ft_putchar.c 
+  203  norminette ft_putchar.c 
+  204  clear
+  205  norminette ft_putchar.c 
+  206  cd ..
+  207  mkdir ex01
+  208  cd ex01
+  209  touch ft_print_alphabet
+  210  gcc ft_print_alphabet.c && ./a.out
+  211  clear
+  212  clear
+  213  norminette ft_print_alphabet.c 
+  214  cd ..
+  215  cd ex02
+  216  clear
+  217  gcc ft_print_reverse_alphabet.c && ./a.out
+  218  norminette ft_print_reverse_alphabet.c 
+  219  cd ..
+  220  mkdir ex03
+  221  clear
+  222  cd ex03
+  223  gcc ft_print_numbers.c && ./a.out
+  224  clear
+  225  gcc ft_print_numbers.c && ./a.out
+  226  clear
+  227  cd ..
+  228  git status
+  229  git add .
+  230  git commit -m "comandos dia 6"
+  231  gist push
+  232  git push
+  233  ls
+  234  clear
+  235  ls
+  236  gcc ft_print_comb.c && a.out
+  237  gcc ft_print_comb.c && ./a.out
+  238  clear
+  239  gcc ft_print_comb.c && ./a.out
+  240  clear
+  241  gcc ft_print_comb.c && ./a.out
+  242  clear
+  243  gcc ft_print_comb.c && ./a.out
+  244  clear
+  245  gcc ft_print_comb.c && ./a.out
+  246  gcc ft_print_comb.c && ./a.out
+  247  clear
+  248  gcc ft_print_comb.c && ./a.out
+  249  clear
+  250  gcc ft_print_comb.c && ./a.out
+  251  clear
+  252  cp ft_print_comb.c  teste.c
+  253  clear
+  254  cp ft_print_comb.c  teste.c
+  255  clear
+  256  cp ft_print_comb.c  teste.c
+  257  gcc ft_print_comb.c && ./a.out
+  258  clear
+  259  gcc ft_print_comb.c && ./a.out
+  260  clear
+  261  gcc ft_print_comb.c && ./a.out
+  262  clear
+  263  gcc ft_print_comb.c && ./a.out
+  264  clear
+  265  gcc ft_print_comb.c && ./a.out
+  266  clear
+  267  gcc ft_print_comb.c && ./a.out
+  268  clear
+  269  gcc ft_print_comb.c && ./a.out
+  270  clear
+  271  gcc ft_print_comb.c && ./a.out
+  272  clear
+  273  gcc ft_print_comb.c && ./a.out
+  274  clear
+  275  gcc ft_print_comb.c && ./a.out
+  276  clear
+  277  gcc ft_print_comb.c && ./a.out
+  278  clear
+  279  gcc ft_print_comb.c && ./a.out
+  280  clear
+  281  gcc ft_print_comb.c && ./a.out
+  282  clear
+  283  gcc ft_print_comb.c && ./a.out
+  284  clear
+  285  gcc ft_print_comb.c && ./a.out
+  286  gcc ft_print_comb.c && ./a.out
+  287  clear
+  288  gcc ft_print_comb.c && ./a.out
+  289  gcc ft_print_comb.c && ./a.out
+  290  clear
+  291  gcc ft_print_comb.c && ./a.out
+  292  gcc ft_print_comb.c && ./a.out
+  293  gcc ft_print_comb.c && ./a.outclear
+  294  gcc ft_print_comb.c && ./a.out
+  295  gcc ft_print_comb.c && ./a.out
+  296  gcc ft_print_comb.c && ./a.out
+  297  gcc ft_print_comb.c && ./a.out
+  298  gcc ft_print_comb.c && ./a.out
+  299  cd ..
+  300  git status
+  301  git add .
+  302  git commit -m "Estrutura"
+  303  git push
+  304  clear
+  305  cd ex00
+  306  gcc main.c -Wall -Wextra -Werror ft_putchar.c rush01.c 
+  307  gcc main.c -Wall -Wextra -Werror ft_putchar.c rush01.c 
+  308  gcc main.c -Wall -Wextra -Werror ft_putchar.c rush01.c 
+  309  gcc main.c -Wall -Wextra -Werror ft_putchar.c rush01.c 
+  310  gcc main.c -Wall -Wextra -Werror ft_putchar.c rush01.c  && ./a.out
+  311  clear
+  312  gcc main.c -Wall -Wextra -Werror ft_putchar.c rush01.c  && ./a.out
+  313  norminette ft_putchar.c 
+  314  norminette main.c 
+  315  norminette main.c
+  316  norminette -R CheckForbiddenSourceHeader
+  317  gcc -Wall -Wextra -Werror ft_putchar.c main.c rush01.c 
+  318  gcc  ft_putchar.c main.c rush01.c 
+  319  gcc -Wall -Wextra -Werror ft_putchar.c main.c rush01.c 
+  320  gcc -Wall -Wextra -Werror ft_putchar.c main.c rush01.c 
+  321  clear
+  322  gcc -Wall -Wextra -Werror ft_putchar.c main.c rush01.c 
+  323  gcc rush00.c ft_putchar.c main.c && ./a.out
+  324  gcc rush01.c ft_putchar.c main.c && ./a.out
+  325  gcc rush02.c ft_putchar.c main.c && ./a.out
+  326  gcc rush03.c ft_putchar.c main.c && ./a.out
+  327  clear
+  328  gcc rush03.c ft_putchar.c main.c && ./a.out
+  329  gcc rush03.c ft_putchar.c main.c && ./a.out
+  330  gcc rush04.c ft_putchar.c main.c && ./a.out
+  331  clear
+  332  gcc rush03.c ft_putchar.c main.c && ./a.out
+  333  clear
+  334  clear
+  335  ls
+  336  ls -la
+  337  rm a.out
+  338  clear
+  339  git log
+  340  clear
+  341  git status
+  342  git add .
+  343  git commit -m"Conclusao trabalho"
+  344  git push
+  345  clear
+  346  gcc main.c rush00.c && ./a.out 10 10
+  347  gcc main.c rush00.c && ./a.out 10 10
+  348  clear
+  349  clear
+  350  gcc main.c rush00.c && ./a.out 10 10
+  351  clear
+  352  gcc main.c rush00.c && ./a.out 10 10
+  353  clear
+  354  gcc main.c rush00.c && ./a.out 10 10
+  355  gcc main.c rush00.c ft_putchar.c && ./a.out 10 10
+  356  clear
+  357  gcc main.c rush00.c ft_putchar.c && ./a.out 10 10
+  358  gcc main.c rush00.c ft_putchar.c && ./a.out 3 3
+  359  gcc main.c rush00.c ft_putchar.c && ./a.out 3 3clear
+  360  git log
+  361  git checkout flda-sil
+  362  clear
+  363  git branch -d LOGININTRA
+  364  git log
+  365  git checkout master
+  366  clear
+  367  git branch -d LOGININTRA
+  368  git branch -d LOGININTRA
+  369  git branch -d flda-sil
+  370  clear
+  371  git checkout flda-sil
+  372  git log
+  373  git checkout master
+  374  git branch -d flda-sil
+  375  clear
+  376  git push origin --delete LOGIN 
+  377  git push origin --delete flda-sil
+  378  clear
+  379  gcc ft_print_comb.c && ./a.out
+  380  bash find_sh.sh 
+  381  bash find_sh.sh  | cat --e
+  382  bash find_sh.sh  | cat -e
+  383  int argc, char **argv
+  384  gcc main.c rush00 ft_putchar.c  && ./a.out 5 5
+  385  gcc main.c rush00.c ft_putchar.c  && ./a.out 5 5
+  386  t
+  387  alias t='norminette -R CheckForbiddenSourceHeader && gcc -Wall -Wextra -Werror *.c && ./a.out'
+  388  alias n='norminette -R CheckForbiddenSourceHeader'
+  389  alias g='gcc -Wall -Wextra -Werror *.c'
+  390  alias a='./a.out'
+  391  alias
+  392  t
+  393  alias
+  394  clear
+  395  gcc ft_print_comb2.c && ./a.out
+  396  clear
+  397  clear
+  398  gcc ft_print_comb2.c && ./a.out
+  399  clear
+  400  gcc ft_print_comb2.c && ./a.out
+  401  clear
+  402  gcc ft_print_comb2.c && ./a.out
+  403  gcc ft_print_comb2.c && ./a.out
+  404  gcc ft_print_comb2.c && ./a.out
+  405  gcc ft_print_comb2.c && ./a.out
+  406  gcc ft_print_comb2.c && ./a.out
+  407  clear
+  408  gcc ft_print_comb2.c && ./a.out
+  409  clear
+  410  gcc ft_print_comb2.c && ./a.out
+  411  gcc ft_print_comb2.c && ./a.out
+  412  clear
+  413  gcc ft_print_comb2.c && ./a.out
+  414  clear
+  415  gcc ft_print_comb2.c && ./a.out
+  416  clear
+  417  gcc ft_print_comb2.c && ./a.out
+  418  gcc ft_print_comb2.c && ./a.out
+  419  gcc ft_print_comb2.c && ./a.out
+  420  clear
+  421  gcc ft_print_comb2.c && ./a.out
+  422  clear
+  423  gcc ft_print_comb2.c && ./a.out
+  424  clear
+  425  gcc ft_print_comb2.c && ./a.out
+  426  clear
+  427  gcc ft_print_comb2.c && ./a.out
+  428  clear
+  429  gcc ft_print_comb2.c && ./a.out
+  430  clear
+  431  gcc ft_print_comb2.c && ./a.out
+  432  ls
+  433  cp ft_print_comb2.c  > teste
+  434  >ls -lRa *MaRV* | cat -e
+  435  ls -lRa *MaRV* | cat -e
+  436  ls -l
+  437  >ls -lRa *MaRV* | cat -e
+  438  ls -lRa *MaRV* | cat -e
+  439  cd ..
+  440  cd ex07
+  441    cat /etc/passwd | sed '/^#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n '7,15'p | sed  's/$/, /' | tr -d '\n' | sed 's/, $/./'
+  442  gcc ft_print_comb.c
+  443  gcc ft_print_comb.c && ./a.out
+  444  echo $FT_NBR1 + $FT_NBR2 | tr "\'" '0' | tr '\\' "1" | tr '"' "2" | tr '?' '3' | tr '!' '4' | tr 'mrdoc' '01234' | exec echo ' ibase=5; obase=13 ' | bc | cat
+  445  FT_NBR1=FT_NBR1=\'?"\"'\
+  446  FT_NBR1=FT_NBR1=\\\'\?\"\\\"\'\\
+  447  export FT_NBR1
+  448  FT_NBR1=FT_NBR2=rcrdmddd
+  449  FT_NBR1=FT_NBR1=\\\'\?\"\\\"\'\\
+  450  export FT_NBR1
+  451  FT_NBR2=rcrdmddd
+  452  export FT_NBR2
+  453  FT_NBR2=rcrdmddd
+  454  CLEAR
+  455  clear
+  456  echo $FT_NBR1 + $FT_NBR2 | tr "\'" '0' | tr '\\' "1" | tr '"' "2" | tr '?' '3' | tr '!' '4' | tr 'mrdoc' '01234' | exec echo ' ibase=5; obase=13 ' | bc | cat
+  457  echo $FT_NBR1 + $FT_NBR2 | tr "\'" '0' | tr '\\' "1" | tr '"' "2" | tr '?' '3' | tr '!' '4' | tr 'mrdoc' '01234' | exec echo ' ibase=5; obase=13 ' | bc
+  458  echo $FT_NBR2
+  459  echo $FT_NBR1 + $FT_NBR2 | tr "\'" '0' | tr '\\' "1" | tr '"' "2" | tr '?' '3' | tr '!' '4' | tr 'mrdoc' '01234' | exec echo ' ibase=5; obase=13 '
+  460  echo $FT_NBR1 + $FT_NBR2 | tr "\'" '0' | tr '\\' "1" | tr '"' "2" | tr '?' '3' | tr '!' '4' | tr 'mrdoc' '01234' | xargs echo ' ibase=5; obase=13 ' | bc 
+  461  echo $FT_NBR1 + $FT_NBR2 | tr "\'" '0' | tr '\\' "1" | tr '"' "2" | tr '?' '3' | tr '!' '4' | tr 'mrdoc' '01234' | xargs echo ' ibase=5; obase=13 '
+  462  FT_NBR1=\\\'\?\"\\\"\'\\
+  463  export FT_NBR1
+  464  echo $FT_NBR1 + $FT_NBR2 | tr "\'" '0' | tr '\\' "1" | tr '"' "2" | tr '?' '3' | tr '!' '4' | tr 'mrdoc' '01234' | xargs echo ' ibase=5; obase=13 '
+  465  echo $FT_NBR1 + $FT_NBR2 | tr "\'" '0' | tr '\\' "1" | tr '"' "2" | tr '?' '3' | tr '!' '4' | tr 'mrdoc' '01234' | xargs echo ' ibase=5; obase=13 ' | BC
+  466  echo $FT_NBR1 + $FT_NBR2 | tr "\'" '0' | tr '\\' "1" | tr '"' "2" | tr '?' '3' | tr '!' '4' | tr 'mrdoc' '01234' | xargs echo ' ibase=5; obase=13 ' | bc
+  467  echo $FT_NBR1 + $FT_NBR2 | tr "\'" '0' | tr '\\' "1" | tr '"' "2" | tr '?' '3' | tr '!' '4' | tr 'mrdoc' '01234' | exec echo ' ibase=5; obase=13 ' | bc
+  468  echo $FT_NBR1 + $FT_NBR2 | tr "\'" '0' | tr '\\' "1" | tr '"' "2" | tr '?' '3' | tr '!' '4' | tr 'mrdoc' '01234' | exec echo ' ibase=5; obase=13 ' | bc
+  469  clear
+  470  basename -help
+  471  basename --help
+  472  bash teste.sh
+  473  bash teste.sh
+  474  bash teste.sh
+  475  FT_LINE1=7
+  476  FT_LINE2=15
+  477  export FT_LINE1
+  478  export FT_LINE2
+  479  cat /etc/passwd | sed '/^#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n "${FT_LINE1},${FT_LINE2}"p | sed  's/$/, /' | tr -d '\n' | sed 's/, $/./'
+  480  CLEAR
+  481  bash r_dwssap.sh 
+  482  cp ft_print_comb2.c  teste.c
+  483  cd ..
+  484  cd ex07
+  485  ls
+  486  cd ex06
+  487  gcc ft_print_comb2.c  && ./a.out
+  488  clear
+  489  gcc ft_print_comb2.c  && ./a.out
+  490  clear
+  491  clear
+  492  gcc ft_print_comb2.c  && ./a.out
+  493  clear
+  494  gcc ft_print_comb2.c  && ./a.out
+  495  clear
+  496  gcc ft_print_comb2.c  && ./a.out
+  497  clear
+  498  gcc ft_print_comb2.c  && ./a.out
+  499  clear
+  500  gcc ft_print_comb2.c  && ./a.out
+  501  git clone https://github.com/alsmd/42sp
+  502  cd 42sp/
+  503  ls
+  504  cd cdigos
+  505  cd codigos
+  506  ls
+  507  mkdir dia_7
+  508  cd dia_7
+  509  cd ..
+  510  ls
+  511  rmdir dia_7
+  512  history > dia_7
