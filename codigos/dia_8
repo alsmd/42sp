@@ -1,0 +1,500 @@
+    4  echo 'obase:10;ibase:2;1010' | bc
+    5  echo 'obase:10;ibase:2;1010' | bc
+    6  echo 'ibase=16; obase=8; FEF33D9' | bc
+    7  echo 'obase=10;ibase=2;1010' | bc
+    8  cp ft_print_comb.c teste2.c
+    9  clear
+   10  gcc ft_print_comb.c && ./a.out
+   11  clear
+   12  gcc ft_print_comb.c && ./a.out
+   13  clea
+   14  clear
+   15  clea
+   16  gcc ft_print_comb.c && ./a.out
+   17  clear
+   18  gcc ft_print_comb.c
+   19  gcc ft_print_comb.c && ./a.out
+   20  clear
+   21  gcc ft_print_comb.c && ./a.out
+   22  clear
+   23  gcc ft_print_comb.c && ./a.out
+   24  clear
+   25  gcc ft_print_comb.c && ./a.out
+   26  clear
+   27  gcc ft_print_comb.c && ./a.out
+   28  clear
+   29  gcc ft_print_comb.c && ./a.out
+   30  clear
+   31  gcc ft_print_comb.c && ./a.out
+   32  clear
+   33  gcc ft_print_comb.c && ./a.out
+   34  clear
+   35  gcc ft_print_comb.c && ./a.out
+   36  clear
+   37  gcc ft_print_comb.c && ./a.out
+   38  clear
+   39  gcc ft_print_comb.c && ./a.out
+   40  clear
+   41  gcc ft_print_comb.c && ./a.out
+   42  clear
+   43  gcc ft_print_comb.c && ./a.out
+   44  clearclear
+   45  clea
+   46  clear
+   47  clearclear
+   48  gcc ft_print_comb.c && ./a.out
+   49  clear
+   50  gcc ft_print_comb.c && ./a.out
+   51  gcc ft_print_comb.c && ./a.out
+   52  clear
+   53  gcc ft_print_comb.c && ./a.out
+   54  dice]
+   55  dice]
+   56  gcc ft_print_comb.c && ./a.out
+   57  gcc ft_print_comb.c && ./a.out
+   58  clear
+   59  gcc ft_print_comb.c && ./a.out
+   60  clear
+   61  gcc ft_print_comb.c && ./a.out
+   62  clear
+   63  gcc ft_print_comb.c && ./a.out
+   64  clear
+   65  gcc ft_print_comb.c && ./a.out
+   66  clear
+   67  gcc ft_print_comb.c && ./a.out
+   68  clear
+   69  gcc ft_print_comb.c && ./a.out
+   70  gcc ft_print_comb.c && ./a.out
+   71  clear
+   72  gcc ft_print_comb.c && ./a.out
+   73  clear
+   74  gcc ft_print_comb.c && ./a.out
+   75  clear
+   76  gcc ft_print_comb.c && ./a.out
+   77  clear
+   78  clear
+   79  gcc ft_print_comb.c && ./a.out
+   80  clear
+   81  gcc ft_print_comb.c && ./a.out
+   82  gcc ft_print_comb.c && ./a.out
+   83  gcc ft_print_comb.c && ./a.out
+   84  clear
+   85  gcc ft_print_comb.c && ./a.out
+   86  clear
+   87  gcc ft_print_comb.c && ./a.out
+   88  gcc ft_print_comb.c && ./a.out
+   89  clear
+   90  gcc ft_print_comb.c && ./a.out
+   91  clear
+   92  gcc ft_print_comb.c && ./a.out
+   93  clear
+   94  gcc ft_print_comb.c && ./a.out
+   95  clear
+   96  gcc ft_print_comb.c && ./a.out
+   97  clear
+   98  gcc ft_print_comb.c && ./a.out
+   99  clear
+  100  gcc ft_print_comb.c && ./a.out
+  101  clear
+  102  gcc ft_print_comb.c && ./a.out
+  103  clear
+  104  gcc ft_print_comb.c && ./a.out
+  105  clear
+  106  gcc ft_print_comb.c && ./a.out
+  107  clear
+  108  gcc ft_print_comb.c && ./a.out
+  109  clear
+  110  gcc ft_print_comb.c && ./a.out
+  111  clear
+  112  gcc ft_print_comb.c && ./a.out
+  113  echo $FT_NBR1 + $FT_NBR2 | tr "\'" '0' | tr '\\' "1" | tr '"' "2" | tr '?' '3' | tr '!' '4' | tr 'mrdoc' '01234' | xargs echo ' ibase=5; obase=13; ' | bc 
+  114  clear
+  115  gcc ft_print_comb2.c && ./a.out
+  116  clear
+  117  gcc ft_print_comb2.c && ./a.out
+  118  clear
+  119  gcc ft_print_comb2.c && ./a.out
+  120  clear
+  121  gcc ft_print_comb2.c && ./a.out
+  122  clear
+  123  gcc ft_print_comb2.c && ./a.out
+  124  clear
+  125  gcc ft_print_comb2.c && ./a.out
+  126  clear
+  127  gcc ft_print_comb2.c && ./a.out
+  128  clear
+  129  gcc ft_print_comb2.c && ./a.out
+  130  clear
+  131  gcc ft_print_comb2.c && ./a.out
+  132  clear
+  133  gcc ft_print_comb2.c && ./a.out
+  134  clear
+  135  nomrinette ft_print_comb2.c 
+  136  nominette ft_print_comb2.c 
+  137  norminette ft_print_comb2.c 
+  138  mv intra-uuid-e3dc92f2-42be-4b8b-af30-0a7142f1ef95-3584122/ 01
+  139  mkdir 02
+  140  git clone git@vogsphere-v2.42sp.org.br:vogsphere/intra-uuid-d008dee7-4c77-4891-9957-58e1ac089b05-3585159 into 03
+  141  git clone git@vogsphere-v2.42sp.org.br:vogsphere/intra-uuid-d008dee7-4c77-4891-9957-58e1ac089b05-3585159
+  142  cd intra-uuid-d008dee7-4c77-4891-9957-58e1ac089b05-3585159/
+  143  cd ex00
+  144  clear
+  145  cat -e z
+  146  cd ..
+  147  cd ex01
+  148  ls
+  149  clear
+  150  ls
+  151  tar -xf testShell00.tar 
+  152  ls
+  153  clear
+  154  ls -l
+  155  cd ..
+  156  cd ex02
+  157  tar -xf exo2.tar 
+  158  clear
+  159  ls
+  160  clear
+  161  ls -l
+  162  clear
+  163  cd ..
+  164  cd ex03
+  165  ls
+  166  clear
+  167  cat midLS 
+  168  cd ..
+  169  cd ex04
+  170  clear
+  171  ls
+  172  bash git_commit.sh 
+  173  bash git_commit.sh  | cat -e
+  174  cat git_commit.sh 
+  175  clear
+  176  cd ..
+  177  cd ex05
+  178  ls
+  179  bash git_ignore.sh 
+  180  cat git_ignore.sh 
+  181  cd ..
+  182  cd ex06
+  183  clear
+  184  ls
+  185  cd ..
+  186  cd ex07
+  187  ls
+  188  clearca
+  189  clear
+  190  cat clean
+  191  cd ..
+  192  cd ex08
+  193  ls
+  194  cat ft_magic 
+  195  gcc ft_print_comb.c && ./a.out
+  196  clear
+  197  gcc ft_print_comb.c && ./a.out
+  198  clear
+  199  gcc ft_print_comb.c && ./a.out
+  200  clear
+  201  norminette ft_print_comb.c 
+  202  gcc ft_print_comb.c && ./a.out
+  203  clear
+  204  gcc ft_print_comb.c && ./a.out
+  205  gcc ft_print_comb.c && ./a.out
+  206  clear
+  207  gcc ft_print_comb.c && ./a.out
+  208  clear
+  209  gcc ft_print_comb.c && ./a.out
+  210  clear
+  211  gcc ft_print_comb.c && ./a.out
+  212  clear
+  213  gcc ft_print_comb.c && ./a.out
+  214  norminette ft_print_comb.c 
+  215  clear
+  216  norminette ft_print_comb.c 
+  217  clear
+  218  norminette ft_print_comb.c 
+  219  clear
+  220  norminette ft_print_comb.c 
+  221  clear
+  222  norminette ft_print_comb.c 
+  223  clear
+  224  norminette ft_print_comb.c 
+  225  clear
+  226  norminette ft_print_comb.c 
+  227  gcc -Wall -Wextra -Werror ft_print_comb.c 
+  228  norminette -R CheckForbiddenSourceHeader ft_print_comb.c 
+  229  clear
+  230  gcc ft_print_comb.c  && ./a.out
+  231  clear
+  232  gcc ft_print_comb.c  && ./a.out
+  233  clear
+  234  gcc ft_print_comb.c  && ./a.out
+  235  clear
+  236  gcc ft_print_comb.c  && ./a.out
+  237  clear
+  238  gcc ft_print_comb.c  && ./a.out
+  239  clear
+  240  gcc ft_print_comb.c  && ./a.out
+  241  clear
+  242  git@vogsphere-v2.42sp.org.br:vogsphere/intra-uuid-d008dee7-4c77-4891-9957-58e1ac089b05-3585159
+  243  gcc ft_print_comb.c  && ./a.out
+  244  clear
+  245  gcc ft_print_comb.c  && ./a.out
+  246  norminette ft_print_comb.c 
+  247  clear
+  248  norminette ft_print_comb.c 
+  249  clear
+  250  gcc ft_print_comb.c  && ./a.out
+  251  clear
+  252  gcc ft_print_comb.c  && ./a.out
+  253  gcc ft_print_comb.c  && ./a.out
+  254  clear
+  255  gcc ft_print_comb.c  && ./a.out
+  256  clear
+  257  norminette ft_print_comb.c 
+  258  clear
+  259  norminette ft_print_comb.c 
+  260  clear
+  261  norminette ft_print_comb.c 
+  262  clear
+  263  norminette ft_print_comb.c 
+  264  clear
+  265  norminette ft_print_comb.c 
+  266  gcc ft_print_comb.c  && ./a.out
+  267  clear
+  268  gcc ft_print_comb.c  && ./a.out
+  269  norminette ft_print_comb.c 
+  270  clear
+  271  norminette ft_print_comb.c 
+  272  clear
+  273  norminette ft_print_comb.c 
+  274  clear
+  275  norminette ft_print_comb.c 
+  276  clear
+  277  norminette ft_print_comb.c 
+  278  clear
+  279  norminette ft_print_comb.c 
+  280  clear
+  281  gcc ft_print_comb.c  && ./a.out
+  282  clear
+  283  gcc ft_print_comb.c  && ./a.out
+  284  clear
+  285  gcc ft_print_comb.c  && ./a.out
+  286  clear
+  287  gcc ft_print_comb.c  && ./a.out
+  288  clear
+  289  gcc ft_print_comb.c  && ./a.out
+  290  clear
+  291  gcc ft_print_comb.c  && ./a.out
+  292  c
+  293  clear
+  294  gcc ft_print_comb.c  && ./a.out
+  295  clear
+  296  gcc ft_print_comb.c  && ./a.out
+  297  clear
+  298  gcc ft_print_comb.c  && ./a.out
+  299  clear
+  300  gcc ft_print_comb.c  && ./a.out
+  301  clear
+  302  gcc ft_print_comb.c  && ./a.out
+  303  clear
+  304  gcc ft_print_comb.c  && ./a.out
+  305  clear
+  306  gcc ft_print_comb.c  && ./a.out
+  307  clear
+  308  gcc ft_print_comb.c  && ./a.out
+  309  clear
+  310  gcc ft_print_comb.c  && ./a.out
+  311  git clone git@vogsphere-v2.42sp.org.br:vogsphere/intra-uuid-680aebbf-064a-4a63-bb8f-e9719761f20c-3589460
+  312  FT_USER=student
+  313  export FT_USER
+  314  cd intra-uuid-680aebbf-064a-4a63-bb8f-e9719761f20c-3589460/
+  315  cd ex01
+  316  bash print_groups.sh 
+  317  clear
+  318  cd ..
+  319  cd ex02
+  320  ls
+  321  mkdir
+  322  mkdir teste
+  323  cd teste
+  324  touch teste.sh
+  325  cd ..
+  326  bash find_sh.sh 
+  327  cd ..
+  328  cd ex03
+  329  touch teste
+  330  mkdir teste2
+  331  bash count_files.sh 
+  332  bash count_files.sh 
+  333  clear
+  334  cd ..
+  335  cd ex04
+  336  ls
+  337  bash MAC.sh 
+  338  cd ..
+  339  cd ex05
+  340  clear
+  341  ls
+  342  ls -lRa *MaRV* | cat -e
+  343  cd ..
+  344  cd ex06
+  345  clear
+  346  bash skip.sh 
+  347  mkdir teste
+  348  bash skip.sh 
+  349  clear
+  350  cd ..
+  351  gcc ft_putnbr.c 
+  352  cd ..
+  353  gcc ft_putnbr.c 
+  354  clear
+  355  gcc ft_putnbr.c  && ./a.out
+  356  clear
+  357  gcc ft_putnbr.c  && ./a.out
+  358  clear
+  359  gcc ft_putnbr.c  && ./a.out
+  360  clear
+  361  gcc ft_putnbr.c  && ./a.out
+  362  clear
+  363  gcc ft_putnbr.c  && ./a.out
+  364  clear
+  365  gcc ft_putnbr.c  && ./a.out
+  366  gcc ft_putnbr.c  && ./a.out
+  367  gcc ft_putnbr.c  && ./a.out
+  368  gcc ft_putnbr.c  && ./a.out
+  369  clear
+  370  gcc ft_putnbr.c  && ./a.out
+  371  clear
+  372  gcc ft_putnbr.c  && ./a.out
+  373  clear
+  374  gcc ft_putnbr.c  && ./a.out
+  375  clear
+  376  gcc ft_putnbr.c  && ./a.out
+  377  clear
+  378  gcc ft_putnbr.c  && ./a.out
+  379  gcc ft_putnbr.c  && ./a.out
+  380  gcc ft_putnbr.c  && ./a.out
+  381  gcc ft_print_comb2.c && ./a.out
+  382  clear
+  383  gcc ft_print_comb2.c && ./a.out
+  384  clear
+  385  gcc ft_print_comb2.c && ./a.out
+  386  gcc ft_print_comb2.c && ./a.out
+  387  clear
+  388  gcc ft_print_comb2.c && ./a.out
+  389  clear
+  390  gcc ft_print_comb2.c && ./a.out
+  391  clear
+  392  gcc ft_print_comb2.c && ./a.out
+  393  clear
+  394  gcc ft_print_comb2.c && ./a.out
+  395  clear
+  396  gcc ft_print_comb2.c && ./a.out
+  397  clear
+  398  gcc ft_print_comb2.c && ./a.out
+  399  gcc ft_print_comb2.c && ./a.out
+  400  clear
+  401  norminette ft_print_comb2.c 
+  402  cd ..
+  403  mkdir ex07
+  404  cd ex07
+  405  norminette ft_putnbr.c 
+  406  clear
+  407  norminette ft_putnbr.c 
+  408  gcc ft_putnbr.c && ./a.out
+  409  clear
+  410  gcc ft_putnbr.c && ./a.out
+  411  clear
+  412  gcc ft_putnbr.c && ./a.out
+  413  gcc ft_putnbr.c && ./a.out
+  414  gcc ft_putnbr.c && ./a.out
+  415  gcc ft_putnbr.c && ./a.out
+  416  clear
+  417  gcc ft_putnbr.c && ./a.out
+  418  clear
+  419  gcc ft_putnbr.c && ./a.out
+  420  clear
+  421  gcc ft_putnbr.c && ./a.out
+  422  clear
+  423  gcc ft_putnbr.c && ./a.out
+  424  clear
+  425  norminette ft_putnbr.c 
+  426  clear
+  427  norminette ft_putnbr.c 
+  428  gcc -Wall -Wextra -Werror ft_putnbr.c 
+  429  intis_negative;
+  430  gcc -Wall -Wextra -Werror ft_putnbr.c 
+  431  norminette -R CheckForbiddenSourceHeader
+  432  norminette -R CheckForbiddenSourceHeader ft_putnbr.c 
+  433  cd ..
+  434  mkdir ex08
+  435  cd ex08
+  436  clear
+  437  gcc ft_print_combn.c  && ./a.out
+  438  clear
+  439  gcc ft_print_combn.c  && ./a.out
+  440  clear
+  441  gcc ft_print_combn.c  && ./a.out
+  442  clear
+  443  clear
+  444  gcc ft_print_combn.c  && ./a.out
+  445  clear
+  446  gcc ft_print_combn.c  && ./a.out
+  447  clear
+  448  gcc ft_print_combn.c  && ./a.out
+  449  clear
+  450  gcc ft_print_combn.c  && ./a.out
+  451  clear
+  452  gcc ft_print_combn.c  && ./a.out
+  453  clear
+  454  gcc ft_print_combn.c  && ./a.out
+  455  clear
+  456  write(1, &combination[9], 1);
+  457  write(1, &combination[9], 1);
+  458  gcc ft_print_combn.c  && ./a.out
+  459  clear
+  460  gcc ft_print_combn.c  && ./a.out
+  461  clear
+  462  gcc ft_print_combn.c  && ./a.out
+  463  clear
+  464  gcc ft_print_combn.c  && ./a.out
+  465  clear
+  466  gcc ft_print_combn.c  && ./a.out
+  467  gcc ft_print_combn.c  && ./a.out
+  468  clear
+  469  gcc ft_print_combn.c  && ./a.out
+  470  clear
+  471  gcc ft_print_combn.c  && ./a.out
+  472  clear
+  473  gcc ft_print_combn.c  && ./a.out
+  474  gcc ft_print_combn.c  && ./a.out
+  475  clear
+  476  gcc ft_print_combn.c  && ./a.out
+  477  clear
+  478  gcc ft_print_combn.c  && ./a.out
+  479  clear
+  480  gcc ft_print_combn.c  && ./a.out
+  481  clear
+  482  gcc ft_print_combn.c  && ./a.out
+  483  clear
+  484  gcc ft_print_combn.c  && ./a.out
+  485  clear
+  486  gcc ft_print_combn.c  && ./a.out
+  487  clear
+  488  gcc ft_print_combn.c  && ./a.out
+  489  clear
+  490  gcc ft_print_combn.c  && ./a.out
+  491  clear
+  492  gcc ft_print_combn.c  && ./a.out
+  493  clear
+  494  gcc ft_print_combn.c  && ./a.out
+  495  clear
+  496  gcc ft_print_combn.c  && ./a.out
+  497  clear
+  498  gcc ft_print_combn.c  && ./a.out
+  499  clear
+  500  gcc ft_print_combn.c  && ./a.out
+  501  git pull
+  502  cd codigos
+  503  history > dia_8
