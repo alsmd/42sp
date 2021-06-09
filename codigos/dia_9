@@ -1,0 +1,500 @@
+    6  clear
+    7  gcc ft_print_combn.c  && ./a.out
+    8  clear
+    9  gcc ft_print_combn.c  && ./a.out
+   10  clear
+   11  gcc ft_print_combn.c  && ./a.out
+   12  clear
+   13  gcc ft_print_combn.c  && ./a.out
+   14  clear
+   15  gcc ft_print_combn.c  && ./a.out
+   16  clear
+   17  gcc ft_print_combn.c  && ./a.out
+   18  clear
+   19  gcc ft_print_combn.c  && ./a.out
+   20  clear
+   21  gcc ft_print_combn.c  && ./a.out
+   22  clear
+   23  gcc ft_print_combn.c  && ./a.out
+   24  git pull
+   25  cd codigos
+   26  history > dia_8
+   27  git status
+   28  cd ..
+   29  git add codigos
+   30  git commit -m "comandos dia 8"
+   31  git push
+   32  gcc ft_print_combn.c  && ./a.out
+   33  gcc ft_print_combn.c  && ./a.out
+   34  clear
+   35  gcc ft_print_combn.c  && ./a.out
+   36  cd c00/ex08
+   37  gcc ft_print_combn.c  && ./a.out
+   38  clear
+   39  gcc ft_print_combn.c  && ./a.out
+   40  clear
+   41  gcc ft_print_combn.c  && ./a.out
+   42  clear
+   43  gcc ft_print_combn.c  && ./a.out
+   44  clear
+   45  gcc ft_print_combn.c  && ./a.out
+   46  clear
+   47  gcc ft_print_combn.c  && ./a.out
+   48  clear
+   49  gcc ft_print_combn.c  && ./a.out
+   50  clear
+   51  gcc ft_print_combn.c  && ./a.out
+   52  clear
+   53  gcc ft_print_combn.c  && ./a.out
+   54  clear
+   55  gcc ft_print_combn.c  && ./a.out
+   56  clear
+   57  gcc ft_print_combn.c  && ./a.out
+   58  clear
+   59  gcc ft_print_combn.c  && ./a.out
+   60  clear
+   61  gcc ft_print_combn.c  && ./a.out
+   62  clear
+   63  gcc ft_print_combn.c  && ./a.out
+   64  clear
+   65  gcc ft_print_combn.c  && ./a.out
+   66  clear
+   67  gcc ft_print_combn.c  && ./a.out
+   68  clear
+   69  gcc ft_print_combn.c  && ./a.out
+   70  clear
+   71  gcc ft_print_combn.c  && ./a.out
+   72  clear
+   73  gcc ft_print_combn.c  && ./a.out
+   74  clear
+   75  gcc ft_print_combn.c  && ./a.out
+   76  clear
+   77  gcc ft_print_combn.c  && ./a.out
+   78  clear
+   79  gcc ft_print_combn.c  && ./a.out
+   80  clear
+   81  gcc ft_print_combn.c  && ./a.out
+   82  clear
+   83  gcc ft_print_combn.c  && ./a.out
+   84  clear
+   85  gcc ft_print_combn.c  && ./a.out
+   86  clear
+   87  gcc ft_print_combn.c  && ./a.out
+   88  clear
+   89  gcc ft_print_combn.c  && ./a.out
+   90  clear
+   91  gcc ft_print_combn.c  && ./a.out
+   92  clear
+   93  gcc ft_print_combn.c  && ./a.out
+   94  clear
+   95  gcc ft_print_combn.c  && ./a.out
+   96  clear
+   97  gcc ft_print_combn.c  && ./a.out
+   98  gcc ft_print_combn.c  && ./a.out
+   99  gcc ft_print_combn.c  && ./a.out
+  100  clear
+  101  gcc ft_print_combn.c  && ./a.out
+  102  clear
+  103  gcc ft_print_combn.c  && ./a.out
+  104  cd ..
+  105  cd ex00
+  106  clear
+  107  gcc ft_putchar.c  && ./a.out
+  108  clear
+  109  gcc ft_putchar.c  && ./a.out
+  110  gcc -Wall -Wextra -Werror ft_putchar.c  && ./a.out
+  111  norminette -R CheckForbiddenSourceHeader
+  112  norminette -R CheckForbiddenSourceHeader ft_putchar.c 
+  113  norminette -R CheckForbiddenSourceHeader ft_putchar.c 
+  114  clear
+  115  rm a.out
+  116  cd ..
+  117  cd ex01
+  118  gcc -Wall -Wextra -Werror ft_putchar.c  && ./a.out
+  119  gcc -Wall -Wextra -Werror ft_print_alphabet.c  && ./a.out
+  120  norminette -R CheckForbiddenSourceHeader ft_putchar.c 
+  121  norminette -R CheckForbiddenSourceHeader
+  122  norminette -R CheckForbiddenSourceHeader
+  123  norminette -R CheckForbiddenSourceHeader
+  124  clear
+  125  rm a.out
+  126  cd ..
+  127  cd ex02
+  128  gcc -Wall -Wextra -Werror *.c  && ./a.ouu
+  129  gcc -Wall -Wextra -Werror *.c  && ./a.out
+  130  norminette -R CheckForbiddenSourceHeader
+  131  rm a.out
+  132  cd ..
+  133  cd ex03
+  134  clear
+  135  ls
+  136  gcc -Wall -Wextra -Werror *.c  && ./a.out
+  137  norminette -R CheckForbiddenSourceHeader
+  138  clear
+  139  norminette -R CheckForbiddenSourceHeader
+  140  clear
+  141  norminette -R CheckForbiddenSourceHeader
+  142  rm a.out 
+  143  cd ..
+  144  cd ex04
+  145  clear
+  146  s
+  147  gcc -Wall -Wextra -Werror *.c  && ./a.out
+  148  clear
+  149  gcc -Wall -Wextra -Werror *.c  && ./a.out
+  150  gcc -Wall -Wextra -Werror *.c  && ./a.out
+  151  norminette -R CheckForbiddenSourceHeader
+  152  clear
+  153  norminette -R CheckForbiddenSourceHeader
+  154  gcc -Wall -Wextra -Werror *.c  && ./a.out
+  155  rm a.out
+  156  cd ..
+  157  cd ex05
+  158  gcc -Wall -Wextra -Werror *.c  && ./a.out
+  159  clear
+  160  gcc -Wall -Wextra -Werror *.c  && ./a.out
+  161  clear
+  162  gcc -Wall -Wextra -Werror *.c  && ./a.out
+  163  clear
+  164  gcc -Wall -Wextra -Werror *.c  && ./a.out
+  165  groups $FT_USER | tr ' ' ',' | tr -d '\n'
+  166  groups student | tr ' ' ',' | tr -d '\n'
+  167  cd ..
+  168  cd ex02
+  169  clear
+  170  ls
+  171  clear
+  172  ls -la
+  173  clear
+  174  touch teste.sh
+  175  bash find_sh.sh 
+  176  bash find_sh.sh  | cat -e
+  177  rm teste.sh
+  178  cd ..
+  179  clear
+  180  cd ex03
+  181  clear
+  182  ls
+  183  bash count_files.sh  | cat -e
+  184  clear
+  185  bash count_files.sh  | cat -e
+  186  ls -la
+  187  clear
+  188  cd ..
+  189  cd ex04
+  190  bash MAC.sh
+  191  bash MAC.sh | cat -e
+  192  clear
+  193  ls -lRa *MaRV* | cat -e
+  194  ls -lRa *MaRV* | cat -e
+  195  clear
+  196  cd ..
+  197  cd ex05
+  198  clear
+  199  ls -lRa *MaRV* | cat -e
+  200  cd ..
+  201  clear
+  202  cd ex06
+  203  bash skip.sh 
+  204  cd ..
+  205  cd ex07
+  206  bash r_dwssap.sh 
+  207  bash r_dwssap.sh 
+  208  cat /etc/passwd | sed '/^#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n "${FT_LINE1},${FT_LINE2}"p | sed  's/$/, /' | tr -d '\n' | sed 's/, $/./'
+  209  clear
+  210  cat /etc/passwd | sed '/^#/d' | sed -n 'n;p'| cut -d ':' -f1 | rev | sort -r | sed -n "${FT_LINE1},${FT_LINE2}"p | sed  's/$/, /' | tr -d '\n' | sed 's/, $/./'
+  211  bash r_dwssap.sh 
+  212  bash r_dwssap.sh 
+  213  clear
+  214  bash r_dwssap.sh 
+  215  bash r_dwssap.sh 
+  216  bash r_dwssap.sh clear
+  217  bash r_dwssap.sh clear
+  218  clear
+  219  bash r_dwssap.sh clear
+  220  clear
+  221  bash r_dwssap.sh clear
+  222  bash r_dwssap.sh clear
+  223  bash r_dwssap.sh clear
+  224  clear
+  225  bash r_dwssap.sh clear
+  226  bash r_dwssap.sh clear
+  227  clear
+  228  bash r_dwssap.sh clear
+  229  bash r_dwssap.sh clear
+  230  bash r_dwssap.sh clear
+  231  clear
+  232  cd ..
+  233  cd ex08
+  234  ls -la
+  235  cd ..
+  236  git status
+  237  git add .
+  238  git commit -m "final"
+  239  git push
+  240  clear
+  241  $ gcc -Wall -Wextra -Werror $(find -type f -name "*.c") all.c [flags adicionais]
+  242  $ gcc -Wall -Wextra -Werror ex05.c
+  243  $ gcc -Wall -Wextra -Werror ex05.c
+  244  gcc -Wall -Wextra -Werror ex05.c
+  245  clear
+  246  gcc -Wall -Wextra -Werror ex05.c
+  247  clear
+  248  gcc -Wall -Wextra -Werror ex05.c
+  249  ./a.out
+  250  cd ex05
+  251  cd ..
+  252  cd ..
+  253  git clone https://github.com/eduardomosko/fake-moulinnete
+  254  gcc -Wall -Wextra -Werror ft_print_comb.c && ./a.out
+  255  clear
+  256  gcc -Wall -Wextra -Werror ft_print_comb.c && ./a.out | wc -l
+  257  gcc -Wall -Wextra -Werror ft_print_comb.c && ./a.out | wc -l
+  258  gcc -Wall -Wextra -Werror ft_print_comb.c && ./a.out 
+  259  git clone git@vogsphere-v2.42sp.org.br:vogsphere/intra-uuid-39912b84-a686-4e8f-a4aa-2396b2f8f0cb-3591512
+  260  cd intra-uuid-39912b84-a686-4e8f-a4aa-2396b2f8f0cb-3591512/
+  261  cd ex01
+  262  clear
+  263  export FT_USER=student
+  264  clear
+  265  bash print_groups.sh 
+  266  cd ..
+  267  cd ex02
+  268  touch teste.sh
+  269  mkdir teste2
+  270  cd teste2
+  271  touch teste3.sh
+  272  cd ..
+  273  clear
+  274  bash find_sh.sh 
+  275  cd ..
+  276  cd ex03
+  277  clear
+  278  clear
+  279  touch arquivos
+  280  mkdir teste4
+  281  bash count_files.sh 
+  282  ls -l
+  283  clear
+  284  ls 
+  285  clear
+  286  find .
+  287  clear
+  288  cd ..
+  289  cd ex04
+  290  clear
+  291  bash MAC.sh 
+  292  clear
+  293  ifconfig -a
+  294  clear
+  295  bash MAC.sh
+  296  cd ..
+  297  cd ex06
+  298  clear
+  299  cd ..
+  300  cd 06
+  301  cd ex05
+  302  ls -
+  303  clear
+  304  ls -lRa *MaRV* | cat -e
+  305  cd ..
+  306  cd ex06
+  307  clear
+  308  touch {1..5}
+  309  clear
+  310  bash skip.sh
+  311  gcc ft_print_comb.c  && ./a.out
+  312  git clone https://github.com/eduardomosko/fake-moulinnete
+  313  git clone git@vogsphere-v2.42sp.org.br:vogsphere/intra-uuid-9e10bdcf-b2db-45ee-bdb3-f7332d7be0f8-3589738
+  314  cd ex00
+  315  cd ex00
+  316  cd intra-uuid-9e10bdcf-b2db-45ee-bdb3-f7332d7be0f8-3589738/
+  317  cd ex00
+  318  clear
+  319  ls
+  320  gcc ex00.c ft_ft.c
+  321  clear
+  322  gcc -Wall -Wextra -Werror ex00.c ft_ft.c && ./a.out
+  323  cd ..
+  324  cd ex01
+  325  cd ..
+  326  cd ex00
+  327  norminette -R CheckForbiddenSourceHeader ft_ft.c 
+  328  clear
+  329  cd ..
+  330  norminette -R CheckForbiddenSourceHeader ft_ft.c 
+  331  norminette -R CheckForbiddenSourceHeader
+  332  cd ex01
+  333  gcc -Wall -Wextra -Werror ex01.c ft_ultimate_ft.c && ./a.out
+  334  cd ..
+  335  cd ex02
+  336  clear
+  337  gcc -Wall -Wextra -Werror ex02.c ft_swap.c  && ./a.out
+  338  cd ..
+  339  cd ex03
+  340  gcc -Wall -Wextra -Werror ex03.c ft_div_mod.c  && ./a.out
+  341  cd ..
+  342  cd ex04
+  343  clear
+  344  gcc -Wall -Wextra -Werror ex04.c ft_ultimate_div_mod.c  && ./a.out
+  345  clear
+  346  cd ..
+  347  cd ex05
+  348  gcc -Wall -Wextra -Werror ex05.c ft_putstr.c  && ./a.out
+  349  clear
+  350  gcc -Wall -Wextra -Werror ex05.c ft_putstr.c  && ./a.out
+  351  clear
+  352  gcc -Wall -Wextra -Werror ex05.c ft_putstr.c  && ./a.out
+  353  gcc -Wall -Wextra -Werror ex05.c ft_putstr.c  && ./a.out
+  354  clear
+  355  gcc -Wall -Wextra -Werror ex05.c ft_putstr.c  && ./a.out
+  356  gcc -Wall -Wextra -Werror ex05.c ft_putstr.c  && ./a.out
+  357  gcc -Wall -Wextra -Werror ex05.c ft_putstr.c  && ./a.out
+  358  clear
+  359  cd ..
+  360  cd ex06
+  361  gcc -Wall -Wextra -Werror ex06.c ft_strlen.c  && ./a.out
+  362  gcc -Wall -Wextra -Werror ex06.c ft_strlen.c  && ./a.out
+  363  gcc ft_print_comb.c && ./a.out
+  364  clear
+  365  gcc ft_print_comb.c && ./a.out
+  366  clear
+  367  gcc ft_print_comb.c && ./a.out
+  368  clear
+  369  gcc teste.c && ./a.out
+  370  clear
+  371  gcc teste.c && ./a.out
+  372  gcc teste.c && ./a.out
+  373  clear
+  374  gcc teste.c && ./a.out
+  375  clear
+  376  gcc teste.c && ./a.out
+  377  clear
+  378  gcc teste.c && ./a.out
+  379  clear
+  380  gcc teste.c && ./a.out
+  381  gcc ft_print_comb.c  && ./a.out
+  382  clear
+  383  gcc ft_print_comb.c  && ./a.out
+  384  gcc teste.c && ./a.out
+  385  clear
+  386  gcc ft_print_comb.c  && ./a.out
+  387  gcc teste.c && ./a.out
+  388  clear
+  389  gcc teste.c && ./a.out
+  390  clear
+  391  gcc teste.c && ./a.out
+  392  clear
+  393  gcc teste.c && ./a.out
+  394  clear
+  395  gcc teste.c && ./a.out
+  396  clear
+  397  gcc teste.c && ./a.out
+  398  gcc teste.c && ./a.out
+  399  clear
+  400  gcc teste2.c && ./a.out
+  401  clear
+  402  gcc teste2.c && ./a.out
+  403  clear
+  404  gcc teste2.c && ./a.out
+  405  clear
+  406  gcc teste2.c && ./a.out
+  407  gcc teste.c && ./a.out
+  408  clear
+  409  gcc teste.c && ./a.out
+  410  clear
+  411  gcc teste.c && ./a.out
+  412  clear
+  413  gcc teste.c && ./a.out
+  414  clear
+  415  gcc teste.c && ./a.out
+  416  clear
+  417  gcc teste.c && ./a.out
+  418  clear
+  419  gcc teste.c && ./a.out
+  420  clear
+  421  norminette teste.c
+  422  clear
+  423  norminette teste.c
+  424  clear
+  425  norminette teste.c
+  426  clear
+  427  norminette teste.c
+  428  clear
+  429  gcc teste.c && ./a.out
+  430  clear
+  431  gcc teste.c && ./a.out
+  432  clear
+  433  gcc teste.c && ./a.out
+  434  clear
+  435  norminette teste.c
+  436  clear
+  437  norminette teste.c
+  438  clear
+  439  cd ..
+  440  cd ex06
+  441  gcc teste2.c && ./a.out
+  442  clear
+  443  gcc teste2.c && ./a.out
+  444  clear
+  445  gcc teste2.c && ./a.out
+  446  clear
+  447  gcc teste2.c && ./a.out
+  448  clear
+  449  clear
+  450  clear
+  451  gcc teste2.c && ./a.out
+  452  gcc teste2.c && ./a.out
+  453  gcc teste2.c && ./a.out
+  454  cd ..
+  455  cd ex05
+  456  clear
+  457  gcc ft_print_comb.c && ./a.out
+  458  clear
+  459  gcc ft_print_comb.c && ./a.out
+  460  clear
+  461  gcc ft_print_comb.c && ./a.out
+  462  clear
+  463  gcc ft_print_comb.c && ./a.out | wc
+  464  gcc ft_print_comb.c && ./a.out
+  465  gcc ft_print_combn.c  && ./a.out
+  466  clear
+  467  gcc ft_print_combn.c  && ./a.out
+  468  clear
+  469  gcc ft_print_combn.c  && ./a.out
+  470  clear
+  471  gcc ft_print_combn.c  && ./a.out
+  472  clear
+  473  gcc ft_print_combn.c  && ./a.out | wc
+  474  gcc ft_print_combn.c  && ./a.out
+  475  gcc teste2.c && ./a.out
+  476  gcc teste2.c && ./a.out | wc
+  477  clear
+  478  gcc teste2.c && ./a.out | wc
+  479  gcc teste2.c && ./a.out
+  480  clear
+  481  gcc teste2.c && ./a.out
+  482  gcc teste.c && ./a.out
+  483  clear
+  484  gcc teste.c && ./a.out
+  485  clear
+  486  gcc teste.c && ./a.out
+  487  clear
+  488  gcc teste.c && ./a.out
+  489  clear
+  490  gcc teste.c && ./a.out
+  491  clear
+  492  gcc teste.c && ./a.out
+  493  gcc teste.c && ./a.out
+  494  gcc teste.c && ./a.out
+  495  git status
+  496  git clone git@vogsphere-v2.42sp.org.br:vogsphere/intra-uuid-1f8d0cb5-c03e-435a-934a-e945abb51a6f-3584458
+  497  git status
+  498  git add .
+  499  git commit -m "ex08"
+  500  git push
+  501  git pull
+  502  ls
+  503  cd codigos
+  504  ls
+  505  history > dia_8
