@@ -4,7 +4,7 @@ typedef struct
 	int prob[4];
 	int solvable;
 	int	row;
-	int col;
+	int	col;
 }field;
 typedef struct
 {
@@ -19,3 +19,4 @@ void	first_rules_hori();
 void	first_rules_vert();
 void	check_by_prob(field **tabuleiro, int row, int col, int size);
 void	try_solve(field **tabuleiro, int size);
+int	succesfully_assigned(field * number, int value);

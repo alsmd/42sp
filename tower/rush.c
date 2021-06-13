@@ -38,16 +38,16 @@ void	set_game(field **table)
 			table[row][col].prob[2] = 1;
 			table[row][col].prob[3] = 1;
 			table[row][col].solvable = 4;
+			table[row][col].number = 0;
 			table[row][col].row = row;
 			table[row][col].col = col;
-			table[row][col].number = 0;
 			col++;
 		}
 		col = 0;
 		row++;
 	}
 }
-rule set_rules(rule tab_rule, int *argumentos, int size)
+void set_rules(rule *tab_rule, int *argumentos, int size)
 {
 	int indice;
 	int indice2;
@@ -61,21 +61,13 @@ rule set_rules(rule tab_rule, int *argumentos, int size)
 		while (indice2 < size)
 		{
 			if (indice == 0)
-			{
-				tab_rule.colup[indice3] = argumentos[indice2];
-			}
+				tab_rule->colup[indice3] = argumentos[indice2];
 			if (indice == 1)
-			{
-				tab_rule.coldown[indice3] = argumentos[indice2];
-			}
+				tab_rule->coldown[indice3] = argumentos[indice2];
 			if (indice == 2)
-			{
-				tab_rule.rowleft[indice3] = argumentos[indice2];
-			}
+				tab_rule->rowleft[indice3] = argumentos[indice2];
 			if (indice == 3)
-			{
-				tab_rule.rowright[indice3] = argumentos[indice2];
-			}
+				tab_rule->rowright[indice3] = argumentos[indice2];
 			indice3++;
 			indice2++;
 		}
@@ -83,33 +75,27 @@ rule set_rules(rule tab_rule, int *argumentos, int size)
 		size += 4;
 		indice++;
 	}
-	return tab_rule;
 }
 
-void    rush(int *argumentos)
+void    rush(int *argumentos, int size)
 {
-    int size;
     field **tabuleiro;
 	rule tab_rule;
+	int x = 0;
 
-    size = 4;
 	NUMBERS_MISSING = size * size;
     tabuleiro = (field**) malloc(size * 8);
-    for(int x = 0; x < size; x++)
+    while(x < size)
     {
         tabuleiro[x] = (field*) malloc(size * (4 * 8));
+		x++;
     }
-	tab_rule = set_rules(tab_rule, argumentos, 4);
+	set_rules(&tab_rule, argumentos, 4);
     set_game(tabuleiro);
-	//primeiras regras
 	first_rules(tab_rule, tabuleiro, size);
-	//tentar resolver com as possibilidades resstantes
 	while (NUMBERS_MISSING > 0)
 	{
 		try_solve(tabuleiro, size);
 	}
-	//mostrar table
     show_table(tabuleiro);
-	//debuger
-	printf("%d \n", NUMBERS_MISSING);
 }

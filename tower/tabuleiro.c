@@ -2,23 +2,37 @@
 #include <stdio.h>
 extern int  NUMBERS_MISSING;
 
-void	check_by_prob(field **tabuleiro, int row, int col, int size)
+void	update_value_field(field *number, int size, field **tabuleiro)
 {
 	int indice;
-	int number;
+	int value;
 	indice = 0;
 	while (indice < size)
 	{
-		if (tabuleiro[row][col].prob[indice] != 0)
+		if (number->prob[indice] != 0)
 		{
-			number = indice + 1;
+			value = indice + 1;
 			NUMBERS_MISSING--;
-			tabuleiro[row][col].number = number;
-			tabuleiro[row][col].solvable = -1;
-			update_tabuleiro(tabuleiro, row, col, size);
+			number->number = value;
+			number->solvable = -1;
+			update_tabuleiro(tabuleiro, number->row, number->col, size);
 			break;
 		}
 		indice++;
+	}
+}
+
+void	update_prob_field(field *number, int number_found, int size, field **tabuleiro)
+{
+	if (number->number == 0)
+	{
+		if(number->prob[number_found - 1] != 0)
+		{
+			number->solvable -= 1;
+			number->prob[number_found - 1] = 0;
+		}
+		if (number->solvable <= 1)
+			update_value_field(number, size, tabuleiro);
 	}
 }
 void	update_tabuleiro(field **tabuleiro, int row, int col, int size)
@@ -27,40 +41,16 @@ void	update_tabuleiro(field **tabuleiro, int row, int col, int size)
 	int	number_found;
 
 	indice = 0;
-	number_found = tabuleiro[row][col].number; //numero achado
-	//percorre a coluna na qual o numero foi achado;
+	number_found = tabuleiro[row][col].number;
 	while (indice < size)
 	{
-		if (tabuleiro[indice][col].number == 0)
-		{
-			if(tabuleiro[indice][col].prob[number_found - 1] != 0)
-			{
-				tabuleiro[indice][col].solvable = tabuleiro[indice][col].solvable - 1;
-				tabuleiro[indice][col].prob[number_found - 1] = 0;
-			}
-			if (tabuleiro[indice][col].solvable <= 1 && tabuleiro[indice][col].number == 0)
-			{
-				check_by_prob(tabuleiro, indice, col, size);
-			}
-		}
+		update_prob_field(&tabuleiro[indice][col], number_found, size, tabuleiro);
 		indice++;
 	}
 	indice = 0;
-	//percorre a linha na qual o numero foi achado;
 	while (indice < size)
 	{
-		if (tabuleiro[row][indice].number == 0)
-		{
-			if(tabuleiro[row][indice].prob[number_found - 1] != 0)
-			{
-				tabuleiro[row][indice].solvable = tabuleiro[row][indice].solvable - 1;
-				tabuleiro[row][indice].prob[number_found - 1] = 0;
-			}
-			if (tabuleiro[row][indice].solvable <= 1 && tabuleiro[row][indice].number == 0)
-			{
-				check_by_prob(tabuleiro, row, indice, size);
-			}
-		}
+		update_prob_field(&tabuleiro[row][indice], number_found, size, tabuleiro);
 		indice++;
 	}
 }
@@ -79,7 +69,7 @@ void	try_solve(field **tabuleiro, int size)
 		{
 			if (tabuleiro[row][col].number == 0 && tabuleiro[row][col].solvable <= 1)
 			{
-				check_by_prob(tabuleiro, row, col, size);
+				update_value_field(&tabuleiro[row][col], size, tabuleiro);
 			}
 			col++;
 		}
