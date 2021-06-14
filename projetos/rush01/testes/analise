@@ -1,0 +1,46 @@
+*precisamos alocar dinamicamente memoria suficiente para o input das linhas e colunas.
+*qualquer campo que tenha 4 possuira como primeiro numero avista o 1 2 3 4
+*qualquer campo que tenha o 1 possuira como primeiro numero a vista o 4
+*quando temos 3 e 1 nas estreminades teremos o 2 e 4 respectivamente na primeira coluna
+*extremidades 1 e 2 o 3 vira ao lado do 2
+
+* 1 4--2 3
+* 1 4--3 2
+* 1 4321 4
+___________
+* 2 3--4 1
+* 2 1423 2
+* 2 ---- 3
+__________
+* 3 2--4 1
+* 3 1243 2
+__________
+* 4 ---- 1
+*
+----------
+1* 4
+2* 1,2,3
+3* 1,2
+4* 1-2-3-4
+variaveis:
+col1up colup[4]
+col2up
+col3up
+col4up 
+
+col1down coldown[4]
+col2down
+col3down 
+col4down
+
+row1left rowleft[4]
+row2left
+row3left 
+row4left 
+
+row1right rowright[4]
+row2right 
+row3right 
+row4right
+
+options = {1, 2, 3, 4}

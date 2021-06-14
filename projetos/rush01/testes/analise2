@@ -1,0 +1,16 @@
+tabulero{
+	linhas
+	{
+		blocos
+	}
+	colunas
+	{
+		blocos
+	}
+}
+campo
+{
+	row;
+	col;
+	posibility;// 1, 2, 3, 4
+}
