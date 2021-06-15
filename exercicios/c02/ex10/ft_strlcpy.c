@@ -1,8 +1,12 @@
+#include <bsd/string.h>
 #include <unistd.h>
-unsigned	int	ft_strlcpy(char *dest, char *src, unsigned int size)
+#include <stdio.h>
+unsigned int	ft_strlcpy(char *dest, char *src, unsigned int size)
 {
-	int	indice;
+	unsigned int	indice;
+	unsigned int	src_length;
 
+	src_length = 0;
 	indice = 0;
 	while (indice < size - 1 && src[indice] != '\0')
 	{
@@ -14,22 +18,9 @@ unsigned	int	ft_strlcpy(char *dest, char *src, unsigned int size)
 		dest[indice] = '\0';
 		indice++;
 	}
-	return dest;
-}
-
-int	main(void)
-{
-	char	*string;
-	char	string_cop[4];
-	int		indice;
-
-	string = "ola";
-	indice = 0;
-	ft_strlcpy(string_cop, string, 2);
-	while (string_cop[indice] != '\0')
+	while (src[src_length] != '\0')
 	{
-		write(1, &string_cop[indice], 1);
-		indice++;
+		src_length++;
 	}
-	return (0);
+	return (src_length);
 }

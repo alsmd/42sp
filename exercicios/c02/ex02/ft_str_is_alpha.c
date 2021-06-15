@@ -1,4 +1,3 @@
-#include <stdio.h>
 int	is_not_alpha(char caracter)
 {
 	if (caracter >= 'A' && caracter <= 'Z')
@@ -9,8 +8,9 @@ int	is_not_alpha(char caracter)
 	{
 		return (0);
 	}
-	return 1;
+	return (1);
 }
+
 int	ft_str_is_alpha(char *str)
 {
 	int	indice;
@@ -24,14 +24,5 @@ int	ft_str_is_alpha(char *str)
 		}
 		indice++;
 	}
-	return 1;
-}
-
-int main(void)
-{
-	int	output;
-
-	output = ft_str_is_alpha("");
-	printf("%d \n", output);
-	return (0);
+	return (1);
 }

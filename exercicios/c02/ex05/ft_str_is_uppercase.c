@@ -5,7 +5,7 @@ int	is_not_uppercase(char caracter)
 	{
 		return (0);
 	}
-	return 1;
+	return (1);
 }
 
 int	ft_str_is_uppercase(char *str)
@@ -17,18 +17,9 @@ int	ft_str_is_uppercase(char *str)
 	{
 		if (is_not_uppercase(str[indice]))
 		{
-			return 0;
+			return (0);
 		}
 		indice++;
 	}
-	return 1;
-}
-
-int main(void)
-{
-	int	output;
-
-	output = ft_str_is_uppercase("sd");
-	printf("%d \n", output);
-	return (0);
+	return (1);
 }

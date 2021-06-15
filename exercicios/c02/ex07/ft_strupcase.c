@@ -1,4 +1,3 @@
-#include <stdio.h>
 int	is_lowecase(char caracter)
 {
 	if (caracter >= 'a' && caracter <= 'z')
@@ -7,7 +6,8 @@ int	is_lowecase(char caracter)
 	}
 	return (0);
 }
-char *ft_strupcase(char *str)
+
+char	*ft_strupcase(char *str)
 {
 	int	indice;
 
@@ -16,17 +16,9 @@ char *ft_strupcase(char *str)
 	{
 		if (is_lowecase(str[indice]))
 		{
-			str[indice] -=  32;
+			str[indice] -= 32;
 		}
 		indice++;
 	}
-	return str;
-}
-
-int main(void)
-{
-	char teste[]  = "essa string foi escrita em lowercase";
-	ft_strupcase(teste);
-	printf("%s \n", teste);
-	return (0);
+	return (str);
 }

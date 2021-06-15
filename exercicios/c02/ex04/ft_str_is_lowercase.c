@@ -5,7 +5,7 @@ int	is_not_lowercase(char caracter)
 	{
 		return (0);
 	}
-	return 1;
+	return (1);
 }
 
 int	ft_str_is_lowercase(char *str)
@@ -17,18 +17,9 @@ int	ft_str_is_lowercase(char *str)
 	{
 		if (is_not_lowercase(str[indice]))
 		{
-			return 0;
+			return (0);
 		}
 		indice++;
 	}
-	return 1;
-}
-
-int main(void)
-{
-	int	output;
-
-	output = ft_str_is_lowercase("1234d");
-	printf("%d \n", output);
-	return (0);
+	return (1);
 }

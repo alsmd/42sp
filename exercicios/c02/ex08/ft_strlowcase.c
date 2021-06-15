@@ -7,6 +7,7 @@ int	is_uppercase(char caracter)
 	}
 	return (0);
 }
+
 char	*ft_strlowcase(char *str)
 {
 	int	indice;
@@ -16,17 +17,9 @@ char	*ft_strlowcase(char *str)
 	{
 		if (is_uppercase(str[indice]))
 		{
-			str[indice] +=  32;
+			str[indice] += 32;
 		}
 		indice++;
 	}
-	return str;
-}
-
-int main(void)
-{
-	char teste[]  = "ESsA STRING FOI ESCRITA EM UPPERCASE";
-	ft_strlowcase(teste);
-	printf("%s \n", teste);
-	return (0);
+	return (str);
 }

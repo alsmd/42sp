@@ -4,7 +4,7 @@ int	is_not_numeric(char caracter)
 	{
 		return (0);
 	}
-	return 1;
+	return (1);
 }
 
 int	ft_str_is_numeric(char *str)
@@ -16,9 +16,9 @@ int	ft_str_is_numeric(char *str)
 	{
 		if (is_not_numeric(str[indice]))
 		{
-			return 0;
+			return (0);
 		}
 		indice++;
 	}
-	return 1;
+	return (1);
 }
