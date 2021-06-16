@@ -23,5 +23,6 @@ char	*ft_strncat(char *dest, char *src, unsigned int nb)
 		dest_len++;
 		indice++;
 	}
+	dest[dest_len] = '\0';
 	return (dest);
 }

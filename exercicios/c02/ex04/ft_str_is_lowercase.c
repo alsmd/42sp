@@ -1,4 +1,3 @@
-#include <stdio.h>
 int	is_not_lowercase(char caracter)
 {
 	if (caracter >= 'a' && caracter <= 'z')

@@ -1,7 +1,6 @@
-#include <unistd.h>
 char	*ft_strncpy(char *dest, char *src, unsigned int n)
 {
-	int	indice;
+	unsigned int	indice;
 
 	indice = 0;
 	while (indice < n && src[indice] != '\0')
