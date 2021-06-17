@@ -20,11 +20,18 @@ void	ft_putnbr(int nb)
 	}
 	else
 	{
-		if (nb < 0)
+		if (nb == 0)
 		{
-			write(1, "-", 1);
-			nb = -(nb);
+			write(1, "0", 1);
 		}
-		print_number(nb);
+		else
+		{
+			if (nb < 0)
+			{
+				write(1, "-", 1);
+				nb = -(nb);
+			}
+			print_number(nb);
+		}
 	}
 }

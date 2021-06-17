@@ -1,3 +1,4 @@
+#include <unistd.h>
 void	ft_putstr(char *str)
 {
 	int	indice;
@@ -5,7 +6,7 @@ void	ft_putstr(char *str)
 	indice = 0;
 	while (str[indice] != '\0')
 	{
-		write(1, str[indice], 1);
+		write(1, &str[indice], 1);
 		indice++;
 	}
 }

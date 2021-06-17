@@ -31,7 +31,8 @@ char	*ft_strcapitalize(char *str)
 	indice = 0;
 	while (str[indice] != '\0')
 	{
-		str[indice] += 32;
+		if (!is_lowercase(str[indice]))
+			str[indice] += 32;
 		if (indice == 0 && is_lowercase(str[indice]))
 		{
 			str[indice] -= 32;

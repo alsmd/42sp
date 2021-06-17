@@ -37,9 +37,3 @@ void	print_number(int number1, int number2, int number3)
 		write(1, ", ", 2);
 	}
 }
-
-int main(void)
-{
-	ft_print_comb();
-	return (0);
-}
