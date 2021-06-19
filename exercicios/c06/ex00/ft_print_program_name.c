@@ -18,4 +18,5 @@ void	ft_print_string(char *string)
 		write(1, &string[indice], 1);
 		indice++;
 	}
+	write(1, "\n", 1);
 }
