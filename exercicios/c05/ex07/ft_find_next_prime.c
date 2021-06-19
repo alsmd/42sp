@@ -16,7 +16,7 @@ int	ft_is_prime(int nb)
 
 int	ft_find_next_prime(int nb)
 {
-	int	next_prime;
+	long long int	next_prime;
 
 	next_prime = nb;
 	while (1)

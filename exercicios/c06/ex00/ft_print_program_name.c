@@ -1,7 +1,7 @@
 #include <unistd.h>
 void	ft_print_string(char *string);
 
-int	main(int argc,char **argv)
+int	main(int argc, char **argv)
 {
 	argc = 1;
 	ft_print_string(argv[0]);
